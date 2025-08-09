@@ -1,0 +1,1948 @@
+{
+    "goal_decision": "gain",
+    "goal_explanation": "As the user is currently underweight according to their BMI, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein Packed Oats",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "100g", "calories": 379, "protein": 13, "carbs": 66, "fat": 7},
+                    {"name": "Whey Protein Powder", "amount": "30g", "calories": 113, "protein": 24, "carbs": 2, "fat": 1},
+                    {"name": "Banana", "amount": "118g", "calories": 105, "protein": 1.3, "carbs": 27, "fat": 0.3}
+                ],
+                "sauces": [
+                    {"name": "Peanut Butter (Natural)", "amount": "1 tbsp", "calories": 94, "protein": 3.6, "carbs": 3.6, "fat": 8}
+                ],
+                "cooking_instructions": "Cook the oats as per the instructions on the package. Once cooked, stir in the whey protein powder. Top with sliced banana and a tablespoon of peanut butter.",
+                "total_calories": 691,
+                "total_protein": 41.9,
+                "total_carbs": 98.6,
+                "total_fat": 16.3,
+                "meal_time": "08:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Quinoa and Chicken Salad",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Quinoa (Cooked)", "amount": "185g", "calories": 220, "protein": 8, "carbs": 39, "fat": 3.5},
+                    {"name": "Spinach", "amount": "30g", "calories": 7, "protein": 0.9, "carbs": 1, "fat": 0.1}
+                ],
+                "sauces": [
+                    {"name": "Dijon Mustard", "amount": "1 tbsp", "calories": 15, "protein": 0.9, "carbs": 1.1, "fat": 1.1}
+                ],
+                "cooking_instructions": "Cook the chicken breast and quinoa separately. Once done, mix them with fresh spinach and top it with a tablespoon of Dijon mustard.",
+                "total_calories": 407,
+                "total_protein": 40.8,
+                "total_carbs": 41.1,
+                "total_fat": 8.3,
+                "meal_time": "13:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon with Sweet Potato and Asparagus",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "154g", "calories": 280, "protein": 39, "carbs": 0, "fat": 13},
+                    {"name": "Sweet Potato", "amount": "130g", "calories": 112, "protein": 2, "carbs": 26, "fat": 0},
+                    {"name": "Asparagus", "amount": "134g", "calories": 45, "protein": 4.7, "carbs": 8.2, "fat": 0.5}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Bake the salmon fillet and sweet potato in the oven. Steam the asparagus. Drizzle everything with fresh lemon juice before serving.",
+                "total_calories": 441,
+                "total_protein": 45.8,
+                "total_carbs": 35.5,
+                "total_fat": 13.5,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:17:12] local.INFO: AI Response for day 2:  
+[2025-06-02 12:17:12] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "As the user's BMI is currently underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein Packed Oatmeal",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "50g", "calories": 190, "protein": 6.5, "carbs": 32, "fat": 3.5},
+                    {"name": "Whey Protein Powder", "amount": "1 scoop", "calories": 120, "protein": 24, "carbs": 3, "fat": 1},
+                    {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.4, "carbs": 7.4, "fat": 0.2},
+                    {"name": "Chia Seeds", "amount": "1 tbsp", "calories": 59, "protein": 2, "carbs": 5, "fat": 3.5}
+                ],
+                "sauces": [],
+                "cooking_instructions": "Cook oats in water or milk, mix in whey protein, and top with blueberries and chia seeds.",
+                "total_calories": 398,
+                "total_protein": 32.9,
+                "total_carbs": 47.4,
+                "total_fat": 8.2,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Salmon Quinoa Salad",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "100g", "calories": 206, "protein": 22, "carbs": 0, "fat": 13},
+                    {"name": "Quinoa (Cooked)", "amount": "50g", "calories": 95, "protein": 4, "carbs": 21, "fat": 1},
+                    {"name": "Spinach", "amount": "1 cup", "calories": 7, "protein": 0.9, "carbs": 1.1, "fat": 0.1},
+                    {"name": "Bell Peppers", "amount": "50g", "calories": 15, "protein": 0.6, "carbs": 3.6, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Olive Oil", "amount": "1 tbsp", "calories": 119, "protein": 0, "carbs": 0, "fat": 14},
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Cook salmon and quinoa separately. Mix with spinach and bell peppers. Dress with olive oil and lemon juice.",
+                "total_calories": 446,
+                "total_protein": 27.6,
+                "total_carbs": 26,
+                "total_fat": 28.3,
+                "meal_time": "13:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Chicken Brown Rice Bowl",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Brown Rice (Cooked)", "amount": "50g", "calories": 108, "protein": 2.5, "carbs": 22.4, "fat": 0.9},
+                    {"name": "Broccoli", "amount": "1 cup", "calories": 55, "protein": 3.7, "carbs": 11.2, "fat": 0.6}
+                ],
+                "sauces": [
+                    {"name": "Low Sodium Soy Sauce", "amount": "1 tbsp", "calories": 8, "protein": 1, "carbs": 1, "fat": 0}
+                ],
+                "cooking_instructions": "Cook chicken and brown rice separately. Steam broccoli. Combine in a bowl and drizzle with soy sauce.",
+                "total_calories": 336,
+                "total_protein": 38.2,
+                "total_carbs": 34.6,
+                "total_fat": 5.1,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:17:50] local.INFO: AI Response for day 3:  
+[2025-06-02 12:17:50] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "As the client's BMI is currently underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-Packed Oatmeal",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "50g", "calories": 186, "protein": 6.6, "carbs": 33.5, "fat": 3.3},
+                    {"name": "Whey Protein Powder", "amount": "1 scoop", "calories": 110, "protein": 24, "carbs": 1, "fat": 1},
+                    {"name": "Almonds", "amount": "10g", "calories": 57, "protein": 2.1, "carbs": 2.1, "fat": 4.9},
+                    {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.4, "carbs": 7.4, "fat": 0.2}
+                ],
+                "sauces": [],
+                "cooking_instructions": "Cook oats in water or milk, mix in a scoop of protein powder, top with almonds and blueberries.",
+                "total_calories": 382,
+                "total_protein": 33.1,
+                "total_carbs": 44,
+                "total_fat": 9.4,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Chicken Breast with Quinoa and Broccoli",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 247, "protein": 46, "carbs": 0, "fat": 5.4},
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9},
+                    {"name": "Broccoli", "amount": "100g", "calories": 55, "protein": 3.7, "carbs": 11.2, "fat": 0.6}
+                ],
+                "sauces": [
+                    {"name": "Coconut Aminos", "amount": "1 tbsp", "calories": 15, "protein": 0, "carbs": 3, "fat": 0}
+                ],
+                "cooking_instructions": "Grill the chicken breast, serve with cooked quinoa and steamed broccoli. Drizzle with coconut aminos.",
+                "total_calories": 437,
+                "total_protein": 53.8,
+                "total_carbs": 35.5,
+                "total_fat": 7.9,
+                "meal_time": "12:30"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon Fillet with Sweet Potato and Asparagus",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 367, "protein": 39.1, "carbs": 0, "fat": 22.5},
+                    {"name": "Sweet Potato", "amount": "150g", "calories": 135, "protein": 3, "carbs": 31.5, "fat": 0.3},
+                    {"name": "Asparagus", "amount": "100g", "calories": 20, "protein": 2, "carbs": 3.7, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Bake the salmon fillet, serve with baked sweet potato and steamed asparagus. Drizzle with fresh lemon juice.",
+                "total_calories": 526,
+                "total_protein": 44.2,
+                "total_carbs": 36.5,
+                "total_fat": 23,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:18:33] local.INFO: AI Response for day 4:  
+[2025-06-02 12:18:33] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "According to the user's BMI, they are underweight. The goal is to gain weight in a healthy manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Oatmeal with fruits and nuts",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "50g", "calories": 186, "protein": 6, "carbs": 37, "fat": 3},
+                    {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.5, "carbs": 7, "fat": 0},
+                    {"name": "Almonds", "amount": "10g", "calories": 57, "protein": 2, "carbs": 2, "fat": 5}
+                ],
+                "sauces": [
+                    {"name": "Honey", "amount": "1 tbsp", "calories": 64, "protein": 0, "carbs": 17, "fat": 0}
+                ],
+                "cooking_instructions": "Mix dry oats with water and cook on stove until oats are soft. Top with blueberries, almonds, and honey.",
+                "total_calories": 336,
+                "total_protein": 8.5,
+                "total_carbs": 63,
+                "total_fat": 8,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Chicken and Quinoa Salad",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21, "fat": 1.8},
+                    {"name": "Broccoli", "amount": "50g", "calories": 17, "protein": 1.5, "carbs": 3.5, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Mustard (Yellow)", "amount": "1 tbsp", "calories": 9, "protein": 0.5, "carbs": 0.8, "fat": 0.5}
+                ],
+                "cooking_instructions": "Grill the chicken breast until cooked through. Mix cooked quinoa and steamed broccoli. Top with grilled chicken and mustard.",
+                "total_calories": 311,
+                "total_protein": 37.1,
+                "total_carbs": 25.3,
+                "total_fat": 6.1,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon with Sweet Potato and Kale",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "100g", "calories": 206, "protein": 22, "carbs": 0, "fat": 13},
+                    {"name": "Sweet Potato", "amount": "100g", "calories": 86, "protein": 2, "carbs": 20, "fat": 0.1},
+                    {"name": "Kale", "amount": "50g", "calories": 25, "protein": 2, "carbs": 5, "fat": 0.5}
+                ],
+                "sauces": [
+                    {"name": "Coconut Aminos", "amount": "1 tbsp", "calories": 30, "protein": 0, "carbs": 7, "fat": 0}
+                ],
+                "cooking_instructions": "Bake the salmon in the oven at 400F for 12-15 minutes. Steam the sweet potato and kale. Drizzle coconut aminos over the salmon.",
+                "total_calories": 347,
+                "total_protein": 26,
+                "total_carbs": 32,
+                "total_fat": 13.6,
+                "meal_time": "18:30"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:19:00] local.INFO: AI Response for day 5:  
+[2025-06-02 12:19:00] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "As per the user's BMI, they are underweight. The goal is to help them gain weight in a healthy way.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein Oats",
+                "ingredients": [{"name": "Oats (Dry)", "amount": "100g", "calories": 379, "protein": 13, "carbs": 68, "fat": 7}],
+                "sauces": [{"name": "Peanut Butter (Natural)", "amount": "1 tbsp", "calories": 94, "protein": 4, "carbs": 3, "fat": 8}],
+                "cooking_instructions": "Cook oats in water or milk and mix in peanut butter.",
+                "total_calories": 473,
+                "total_protein": 17,
+                "total_carbs": 71,
+                "total_fat": 15,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Tuna Salad",
+                "ingredients": [{"name": "Tuna (Canned in Water)", "amount": "100g", "calories": 116, "protein": 26, "carbs": 0, "fat": 1},{"name": "Spinach", "amount": "100g", "calories": 23, "protein": 3, "carbs": 4, "fat": 0}],
+                "sauces": [{"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0, "carbs": 1, "fat": 0}],
+                "cooking_instructions": "Mix the drained tuna with fresh spinach and lemon juice.",
+                "total_calories": 143,
+                "total_protein": 29,
+                "total_carbs": 5,
+                "total_fat": 1,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Chicken and Broccoli",
+                "ingredients": [{"name": "Chicken Breast (Skinless)", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 4},{"name": "Broccoli", "amount": "100g", "calories": 55, "protein": 4, "carbs": 11, "fat": 1}],
+                "sauces": [{"name": "Hot Sauce (Zero Calorie)", "amount": "1 tbsp", "calories": 0, "protein": 0, "carbs": 0, "fat": 0}],
+                "cooking_instructions": "Grill the chicken breast and steam the broccoli. Serve with hot sauce.",
+                "total_calories": 220,
+                "total_protein": 35,
+                "total_carbs": 11,
+                "total_fat": 5,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:19:21] local.INFO: AI Response for day 6:  
+[2025-06-02 12:19:21] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Based on the provided BMI, which is underweight, the goal is to help the user gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-Packed Oatmeal",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "50g", "calories": 186, "protein": 6.6, "carbs": 33.5, "fat": 3.3},
+                    {"name": "Chia Seeds", "amount": "10g", "calories": 49, "protein": 1.6, "carbs": 4.1, "fat": 3.1},
+                    {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.4, "carbs": 7.4, "fat": 0.2},
+                    {"name": "Almonds", "amount": "10g", "calories": 61, "protein": 2.2, "carbs": 2.1, "fat": 5.3},
+                    {"name": "Whey Protein Powder", "amount": "1 scoop", "calories": 103, "protein": 21.5, "carbs": 1.8, "fat": 1.7}
+                ],
+                "sauces": [
+                    {"name": "Honey", "amount": "1 tbsp", "calories": 64, "protein": 0.1, "carbs": 17.3, "fat": 0}
+                ],
+                "cooking_instructions": "Cook the oats as per the instructions on the packet. Add in the chia seeds during the last few minutes of cooking. Once done, stir in the whey protein powder. Top with almonds and blueberries. Drizzle honey on top.",
+                "total_calories": 492,
+                "total_protein": 31.8,
+                "total_carbs": 66.2,
+                "total_fat": 13.6,
+                "meal_time": "07:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:19:56] local.INFO: AI Response for day 7:  
+[2025-06-02 12:19:56] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Based on user's BMI, which is underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-packed Oats Breakfast",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "100g", "calories": 380, "protein": 13, "carbs": 68, "fat": 7},
+                    {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.4, "carbs": 7.4, "fat": 0.2},
+                    {"name": "Whey Protein Powder", "amount": "1 scoop", "calories": 103, "protein": 21, "carbs": 1, "fat": 2}
+                ],
+                "sauces": [],
+                "cooking_instructions": "Boil oats with water or almond milk. Stir in whey protein powder and top with blueberries.",
+                "total_calories": 512,
+                "total_protein": 34.4,
+                "total_carbs": 76.4,
+                "total_fat": 9.2,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Quinoa and Grilled Chicken Salad",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 248, "protein": 52, "carbs": 0, "fat": 3},
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9},
+                    {"name": "Spinach", "amount": "2 cups", "calories": 14, "protein": 1.8, "carbs": 2.2, "fat": 0.2},
+                    {"name": "Bell Peppers", "amount": "1 medium", "calories": 24, "protein": 1, "carbs": 6, "fat": 0}
+                ],
+                "sauces": [
+                    {"name": "Balsamic Vinegar", "amount": "1 tbsp", "calories": 14, "protein": 0.1, "carbs": 2.7, "fat": 0}
+                ],
+                "cooking_instructions": "Grill the chicken breast and slice it. Mix quinoa, spinach, bell peppers, and grilled chicken. Drizzle with balsamic vinegar.",
+                "total_calories": 420,
+                "total_protein": 58.9,
+                "total_carbs": 32.2,
+                "total_fat": 5.1,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon and Sweet Potato",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 280, "protein": 39, "carbs": 0, "fat": 13},
+                    {"name": "Sweet Potato", "amount": "200g", "calories": 180, "protein": 4, "carbs": 41, "fat": 0.3}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Bake the salmon and sweet potato in the oven. Season with fresh lemon juice.",
+                "total_calories": 464,
+                "total_protein": 43.1,
+                "total_carbs": 42.3,
+                "total_fat": 13.3,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:20:42] local.INFO: AI Response for day 8:  
+[2025-06-02 12:20:42] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "The user's BMI is underweight. The goal is to help him gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-packed scramble",
+                "ingredients": [
+                    {"name": "Egg Whites", "amount": "200g", "calories": 104, "protein": 22, "carbs": 2, "fat": 0.4},
+                    {"name": "Spinach", "amount": "30g", "calories": 7, "protein": 0.9, "carbs": 1.1, "fat": 0.1},
+                    {"name": "Bell Peppers", "amount": "50g", "calories": 15, "protein": 0.7, "carbs": 3.6, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Hot Sauce (Zero Calorie)", "amount": "1 tbsp", "calories": 0, "protein": 0, "carbs": 0, "fat": 0}
+                ],
+                "cooking_instructions": "Whisk egg whites until frothy, then add to a hot non-stick pan. Add spinach and bell peppers, cook until eggs are set. Serve with hot sauce.",
+                "total_calories": 126,
+                "total_protein": 23.6,
+                "total_carbs": 6.7,
+                "total_fat": 0.7,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Chicken and Quinoa Salad",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9},
+                    {"name": "Kale", "amount": "50g", "calories": 25, "protein": 2.1, "carbs": 5, "fat": 0.4}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Grill the chicken until cooked through. Mix cooked quinoa and kale in a bowl, top with sliced chicken and drizzle with lemon juice.",
+                "total_calories": 314,
+                "total_protein": 37.2,
+                "total_carbs": 27.6,
+                "total_fat": 5.9,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon and Sweet Potato",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "100g", "calories": 206, "protein": 22, "carbs": 0, "fat": 13},
+                    {"name": "Sweet Potato", "amount": "100g", "calories": 86, "protein": 2, "carbs": 20, "fat": 0.1}
+                ],
+                "sauces": [
+                    {"name": "Olive Oil", "amount": "1 tbsp", "calories": 119, "protein": 0, "carbs": 0, "fat": 14}
+                ],
+                "cooking_instructions": "Bake the salmon in the oven until cooked to your liking. Serve with a side of baked sweet potato drizzled with olive oil.",
+                "total_calories": 411,
+                "total_protein": 24,
+                "total_carbs": 20,
+                "total_fat": 27.1,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:21:15] local.INFO: AI Response for day 9:  
+[2025-06-02 12:21:15] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Based on the user's BMI which is underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein Packed Breakfast",
+                "ingredients": [
+                    {"name": "Egg Whites", "amount": "100g", "calories": 52, "protein": 11, "carbs": 0.7, "fat": 0.2},
+                    {"name": "Oats", "amount": "50g", "calories": 192, "protein": 6.6, "carbs": 32.4, "fat": 3.6},
+                    {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.4, "carbs": 7.4, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Honey", "amount": "1 tbsp", "calories": 64, "protein": 0.06, "carbs": 17.3, "fat": 0}
+                ],
+                "cooking_instructions": "Cook oats in water, add egg whites and stir until cooked. Top with blueberries and honey.",
+                "total_calories": 337,
+                "total_protein": 18,
+                "total_carbs": 57.8,
+                "total_fat": 4,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Healthy Lunch Bowl",
+                "ingredients": [
+                    {"name": "Quinoa", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9},
+                    {"name": "Chicken Breast", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Broccoli", "amount": "100g", "calories": 55, "protein": 3.7, "carbs": 11.2, "fat": 0.6}
+                ],
+                "sauces": [
+                    {"name": "Mustard", "amount": "1 tbsp", "calories": 9, "protein": 0.5, "carbs": 0.8, "fat": 0.5}
+                ],
+                "cooking_instructions": "Cook quinoa and chicken separately. Steam broccoli and mix all together. Add mustard for taste.",
+                "total_calories": 349,
+                "total_protein": 39.3,
+                "total_carbs": 33.3,
+                "total_fat": 6.6,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Hearty Dinner",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "100g", "calories": 206, "protein": 22, "carbs": 0, "fat": 13},
+                    {"name": "Brown Rice", "amount": "100g", "calories": 111, "protein": 2.6, "carbs": 23.5, "fat": 0.9},
+                    {"name": "Asparagus", "amount": "100g", "calories": 20, "protein": 2, "carbs": 3.7, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice", "amount": "1 tbsp", "calories": 4, "protein": 0.06, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Grill the salmon and cook the rice. Steam the asparagus and serve all together. Drizzle with lemon juice for taste.",
+                "total_calories": 341,
+                "total_protein": 26.6,
+                "total_carbs": 28.5,
+                "total_fat": 14.1,
+                "meal_time": "18:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:21:55] local.INFO: AI Response for day 10:  
+[2025-06-02 12:21:55] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "As the user's BMI is underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-packed oatmeal",
+                "ingredients": [{"name": "Oats (Dry)", "amount": "50g", "calories": 186, "protein": 6.5, "carbs": 33.5, "fat": 3.5}, {"name": "Banana", "amount": "100g", "calories": 96, "protein": 1.1, "carbs": 22.8, "fat": 0.3}, {"name": "Whey Protein Powder", "amount": "30g", "calories": 113, "protein": 27, "carbs": 1.5, "fat": 1}],
+                "sauces": [{"name": "Peanut Butter (Natural)", "amount": "1 tbsp", "calories": 94, "protein": 3.6, "carbs": 3.1, "fat": 8}],
+                "cooking_instructions": "Cook oats in water. Once cooked, stir in protein powder. Top with banana slices and a dollop of peanut butter.",
+                "total_calories": 489,
+                "total_protein": 38.2,
+                "total_carbs": 60.9,
+                "total_fat": 12.8,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Chicken and Quinoa Salad",
+                "ingredients": [{"name": "Chicken Breast (Skinless)", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6}, {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9}, {"name": "Spinach", "amount": "50g", "calories": 11, "protein": 1.4, "carbs": 1.8, "fat": 0.2}],
+                "sauces": [{"name": "Balsamic Vinegar", "amount": "1 tbsp", "calories": 14, "protein": 0.1, "carbs": 2.7, "fat": 0}],
+                "cooking_instructions": "Grill chicken and season with salt and pepper. Mix with cooked quinoa and fresh spinach. Drizzle with balsamic vinegar.",
+                "total_calories": 310,
+                "total_protein": 36.6,
+                "total_carbs": 25.8,
+                "total_fat": 5.7,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon with Sweet Potato",
+                "ingredients": [{"name": "Salmon Fillet", "amount": "150g", "calories": 281, "protein": 39.8, "carbs": 0, "fat": 13.3}, {"name": "Sweet Potato", "amount": "200g", "calories": 180, "protein": 4, "carbs": 41.4, "fat": 0.3}],
+                "sauces": [{"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}],
+                "cooking_instructions": "Bake salmon with a squeeze of fresh lemon juice. Serve with baked sweet potato.",
+                "total_calories": 465,
+                "total_protein": 43.9,
+                "total_carbs": 42.7,
+                "total_fat": 13.6,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:22:39] local.INFO: AI Response for day 11:  
+[2025-06-02 12:22:39] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "As the user is currently underweight according to their BMI, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Scrambled Egg Whites with Spinach and Ezekiel Bread",
+                "ingredients": [
+                    {"name": "Egg Whites", "amount": "200g", "calories": 104, "protein": 22, "carbs": 2, "fat": 0},
+                    {"name": "Spinach", "amount": "30g", "calories": 7, "protein": 1, "carbs": 1, "fat": 0},
+                    {"name": "Ezekiel Bread", "amount": "1 slice", "calories": 80, "protein": 4, "carbs": 15, "fat": 1}
+                ],
+                "sauces": [
+                    {"name": "Hot Sauce (Zero Calorie)", "amount": "1 tbsp", "calories": 0, "protein": 0, "carbs": 0, "fat": 0}
+                ],
+                "cooking_instructions": "Whisk the egg whites and cook in a non-stick pan with spinach. Toast the Ezekiel bread and serve with the scrambled eggs.",
+                "total_calories": 191,
+                "total_protein": 27,
+                "total_carbs": 18,
+                "total_fat": 1,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Chicken Breast with Quinoa and Broccoli",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4, "carbs": 21, "fat": 1.9},
+                    {"name": "Broccoli", "amount": "100g", "calories": 55, "protein": 3.7, "carbs": 11, "fat": 0.6}
+                ],
+                "sauces": [
+                    {"name": "Mustard (Yellow)", "amount": "1 tbsp", "calories": 9, "protein": 0.5, "carbs": 0.8, "fat": 0.5}
+                ],
+                "cooking_instructions": "Grill the chicken breast and serve with cooked quinoa and steamed broccoli. Add mustard for taste.",
+                "total_calories": 349,
+                "total_protein": 39.2,
+                "total_carbs": 32.8,
+                "total_fat": 6.6,
+                "meal_time": "13:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon Fillet with Sweet Potato and Asparagus",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 367, "protein": 39, "carbs": 0, "fat": 22},
+                    {"name": "Sweet Potato", "amount": "100g", "calories": 86, "protein": 2, "carbs": 20, "fat": 0.1},
+                    {"name": "Asparagus", "amount": "100g", "calories": 20, "protein": 2, "carbs": 3.7, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Dijon Mustard", "amount": "1 tbsp", "calories": 10, "protein": 0.6, "carbs": 1, "fat": 0.7}
+                ],
+                "cooking_instructions": "Grill the salmon fillet and serve with baked sweet potato and steamed asparagus. Add Dijon mustard for taste.",
+                "total_calories": 483,
+                "total_protein": 43.6,
+                "total_carbs": 24.7,
+                "total_fat": 23,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:23:18] local.INFO: AI Response for day 12:  
+[2025-06-02 12:23:18] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "According to the user's BMI, which is underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 11,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein Oatmeal with Fruits and Nuts",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "100g", "calories": 379, "protein": 13.2, "carbs": 68, "fat": 6.9},
+                    {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.4, "carbs": 7.4, "fat": 0.2},
+                    {"name": "Almonds", "amount": "50g", "calories": 275, "protein": 10, "carbs": 9.9, "fat": 23}
+                ],
+                "sauces": [
+                    {"name": "Honey", "amount": "1 tbsp", "calories": 64, "protein": 0.06, "carbs": 17.3, "fat": 0}
+                ],
+                "cooking_instructions": "Cook the oats as per the package instructions. Top with blueberries, almonds and a drizzle of honey.",
+                "total_calories": 747,
+                "total_protein": 23.66,
+                "total_carbs": 102.6,
+                "total_fat": 30.1,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Salmon Quinoa Salad",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 206, "protein": 22, "carbs": 0, "fat": 13},
+                    {"name": "Quinoa (Cooked)", "amount": "200g", "calories": 220, "protein": 8, "carbs": 39.4, "fat": 3.6},
+                    {"name": "Spinach", "amount": "100g", "calories": 23, "protein": 2.9, "carbs": 3.6, "fat": 0.4}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.06, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Cook the salmon as preferred. Mix cooked quinoa and fresh spinach. Top with cooked salmon and drizzle with fresh lemon juice.",
+                "total_calories": 453,
+                "total_protein": 32.96,
+                "total_carbs": 44.3,
+                "total_fat": 17,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Chicken Breast with Sweet Potato and Broccoli",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Sweet Potato", "amount": "200g", "calories": 180, "protein": 4, "carbs": 41.4, "fat": 0.3},
+                    {"name": "Broccoli", "amount": "100g", "calories": 55, "protein": 3.7, "carbs": 11.2, "fat": 0.6}
+                ],
+                "sauces": [
+                    {"name": "Coconut Aminos", "amount": "1 tbsp", "calories": 30, "protein": 0, "carbs": 7, "fat": 0}
+                ],
+                "cooking_instructions": "Grill the chicken breast until cooked. Bake the sweet potato in the oven. Steam the broccoli. Serve all together with a drizzle of coconut aminos.",
+                "total_calories": 430,
+                "total_protein": 38.7,
+                "total_carbs": 59.6,
+                "total_fat": 4.5,
+                "meal_time": "18:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:24:08] local.INFO: AI Response for day 13:  
+[2025-06-02 12:24:08] local.INFO: {
+  "goal_decision": "gain",
+  "goal_explanation": "According to the user's BMI, they are currently underweight. Therefore, the goal is to gain weight in a healthy and gradual manner.",
+  "day_meal_plan": {
+    "day": 1,
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "meal_name": "Protein-packed breakfast",
+        "ingredients": [
+          {
+            "name": "Egg Whites",
+            "amount": "200g",
+            "calories": 104,
+            "protein": 22,
+            "carbs": 2,
+            "fat": 0
+          },
+          {
+            "name": "Brown Rice",
+            "amount": "100g",
+            "calories": 111,
+            "protein": 2.6,
+            "carbs": 23,
+            "fat": 0.9
+          },
+          {
+            "name": "Avocado",
+            "amount": "50g",
+            "calories": 80,
+            "protein": 1,
+            "carbs": 4,
+            "fat": 7
+          }
+        ],
+        "sauces": [
+          {
+            "name": "Hot Sauce",
+            "amount": "1 tbsp",
+            "calories": 0,
+            "protein": 0,
+            "carbs": 0,
+            "fat": 0
+          }
+        ],
+        "cooking_instructions": "First, cook the egg whites in a non-stick pan. Then, heat up the brown rice and mix it with the cooked egg whites. Top it with sliced avocado and a spoonful of hot sauce for flavor.",
+        "total_calories": 295,
+        "total_protein": 25.6,
+        "total_carbs": 29,
+        "total_fat": 7.9,
+        "meal_time": "07:00"
+      },
+      {
+        "meal_type": "lunch",
+        "meal_name": "Healthy lunch bowl",
+        "ingredients": [
+          {
+            "name": "Chicken Breast",
+            "amount": "150g",
+            "calories": 165,
+            "protein": 31,
+            "carbs": 0,
+            "fat": 3.6
+          },
+          {
+            "name": "Quinoa",
+            "amount": "100g",
+            "calories": 120,
+            "protein": 4.1,
+            "carbs": 21,
+            "fat": 1.8
+          },
+          {
+            "name": "Spinach",
+            "amount": "100g",
+            "calories": 23,
+            "protein": 2.9,
+            "carbs": 3.6,
+            "fat": 0.4
+          }
+        ],
+        "sauces": [
+          {
+            "name": "Dijon Mustard",
+            "amount": "1 tbsp",
+            "calories": 15,
+            "protein": 0,
+            "carbs": 1,
+            "fat": 1
+          }
+        ],
+        "cooking_instructions": "Grill the chicken breast until it's fully cooked. In a bowl, mix cooked quinoa and fresh spinach. Place the grilled chicken on top and add a spoonful of Dijon mustard for flavor.",
+        "total_calories": 323,
+        "total_protein": 38,
+        "total_carbs": 25.6,
+        "total_fat": 6.8,
+        "meal_time": "13:00"
+      },
+      {
+        "meal_type": "dinner",
+        "meal_name": "Tuna Pasta",
+        "ingredients": [
+          {
+            "name": "Tuna",
+            "amount": "150g",
+            "calories": 191,
+            "protein": 42,
+            "carbs": 0,
+            "fat": 1.3
+          },
+          {
+            "name": "Whole Wheat Pasta",
+            "amount": "100g",
+            "calories": 124,
+            "protein": 5,
+            "carbs": 27,
+            "fat": 0.5
+          },
+          {
+            "name": "Broccoli",
+            "amount": "100g",
+            "calories": 55,
+            "protein": 3.7,
+            "carbs": 11.2,
+            "fat": 0.6
+          }
+        ],
+        "sauces": [
+          {
+            "name": "Marinara Sauce",
+            "amount": "2 tbsp",
+            "calories": 70,
+            "protein": 2,
+            "carbs": 9,
+            "fat": 2
+          }
+        ],
+        "cooking_instructions": "Cook the pasta according to the package instructions. In a separate pan, heat up the tuna and broccoli. Mix everything together and add marinara sauce for flavor.",
+        "total_calories": 440,
+        "total_protein": 52.7,
+        "total_carbs": 47.2,
+        "total_fat": 4.4,
+        "meal_time": "19:00"
+      }
+    ]
+  }
+}  
+[2025-06-02 12:24:52] local.INFO: AI Response for day 14:  
+[2025-06-02 12:24:52] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "As the user's BMI is underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-packed Oats",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "100g", "calories": 389, "protein": 16.9, "carbs": 66.3, "fat": 6.9},
+                    {"name": "Whey Protein Powder", "amount": "1 scoop", "calories": 120, "protein": 24, "carbs": 3, "fat": 1},
+                    {"name": "Chia Seeds", "amount": "1 tbsp", "calories": 60, "protein": 2, "carbs": 5, "fat": 3},
+                    {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.4, "carbs": 7.4, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Honey", "amount": "1 tbsp", "calories": 64, "protein": 0.06, "carbs": 17.3, "fat": 0}
+                ],
+                "cooking_instructions": "Cook oats as per package instructions. Stir in whey protein powder. Top with blueberries, chia seeds, and a drizzle of honey.",
+                "total_calories": 662,
+                "total_protein": 43.36,
+                "total_carbs": 99,
+                "total_fat": 11.1,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Quinoa and Chicken Bowl",
+                "ingredients": [
+                    {"name": "Quinoa (Cooked)", "amount": "200g", "calories": 220, "protein": 8, "carbs": 39.4, "fat": 3.6},
+                    {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 231, "protein": 43, "carbs": 0, "fat": 5},
+                    {"name": "Broccoli", "amount": "100g", "calories": 55, "protein": 3.7, "carbs": 11.2, "fat": 0.6}
+                ],
+                "sauces": [
+                    {"name": "Low Sodium Soy Sauce", "amount": "1 tbsp", "calories": 8, "protein": 1, "carbs": 1, "fat": 0}
+                ],
+                "cooking_instructions": "Cook chicken breast until no longer pink inside. Serve with cooked quinoa and steamed broccoli. Drizzle with low sodium soy sauce.",
+                "total_calories": 514,
+                "total_protein": 55.7,
+                "total_carbs": 51.6,
+                "total_fat": 9.2,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon and Sweet Potato",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 281, "protein": 39, "carbs": 0, "fat": 13},
+                    {"name": "Sweet Potato", "amount": "200g", "calories": 180, "protein": 4, "carbs": 41.4, "fat": 0.3},
+                    {"name": "Asparagus", "amount": "100g", "calories": 20, "protein": 2.2, "carbs": 3.7, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.06, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Bake salmon at 375°F (190°C) for about 20 minutes. Serve with baked sweet potato and steamed asparagus. Drizzle with fresh lemon juice.",
+                "total_calories": 485,
+                "total_protein": 45.26,
+                "total_carbs": 46.4,
+                "total_fat": 13.5,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:25:31] local.INFO: AI Response for day 15:  
+[2025-06-02 12:25:31] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "As the user is currently underweight according to their BMI, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Scrambled Egg Whites with Spinach",
+                "ingredients": [
+                    {"name": "Egg Whites", "amount": "200g", "calories": 104, "protein": 22, "carbs": 2, "fat": 0},
+                    {"name": "Spinach", "amount": "50g", "calories": 12, "protein": 1, "carbs": 2, "fat": 0}
+                ],
+                "sauces": [
+                    {"name": "Hot Sauce (Zero Calorie)", "amount": "1 tbsp", "calories": 0, "protein": 0, "carbs": 0, "fat": 0}
+                ],
+                "cooking_instructions": "Whisk egg whites until frothy, heat a non-stick pan over medium heat, add the egg whites and spinach. Cook until the eggs are set. Serve with hot sauce.",
+                "total_calories": 116,
+                "total_protein": 23,
+                "total_carbs": 4,
+                "total_fat": 0,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Quinoa and Chicken Salad",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21, "fat": 1.8},
+                    {"name": "Bell Peppers", "amount": "50g", "calories": 15, "protein": 0.6, "carbs": 3.6, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Balsamic Vinegar", "amount": "1 tbsp", "calories": 14, "protein": 0.1, "carbs": 2.7, "fat": 0}
+                ],
+                "cooking_instructions": "Cook chicken breast until no longer pink in the middle. Mix cooked quinoa, sliced bell peppers, and diced chicken breast. Drizzle with balsamic vinegar.",
+                "total_calories": 314,
+                "total_protein": 35.7,
+                "total_carbs": 27.3,
+                "total_fat": 5.6,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon Fillet with Asparagus",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 280, "protein": 39, "carbs": 0, "fat": 13},
+                    {"name": "Asparagus", "amount": "100g", "calories": 20, "protein": 2, "carbs": 3.7, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Season salmon with salt and pepper, cook on a heated pan for 4-5 minutes each side. Steam asparagus until tender. Serve with a squeeze of fresh lemon juice.",
+                "total_calories": 304,
+                "total_protein": 41.1,
+                "total_carbs": 5,
+                "total_fat": 13.2,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:26:17] local.INFO: AI Response for day 16:  
+[2025-06-02 12:26:17] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Based on the user's BMI which is underweight, the goal is to gain weight in a healthy manner.",
+    "day_meal_plan": {
+        "day": 15,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-packed oatmeal",
+                "ingredients": [
+                    {"name": "Oats", "amount": "100g", "calories": 379, "protein": 13.2, "carbs": 67.7, "fat": 6.9},
+                    {"name": "Almonds", "amount": "30g", "calories": 173, "protein": 6.3, "carbs": 6.1, "fat": 15},
+                    {"name": "Banana", "amount": "1 medium", "calories": 105, "protein": 1.3, "carbs": 27, "fat": 0.3},
+                    {"name": "Whey Protein Powder", "amount": "1 scoop", "calories": 111, "protein": 24, "carbs": 2, "fat": 1}
+                ],
+                "sauces": [],
+                "cooking_instructions": "Mix oats with water and cook on the stove for about 10 minutes. Stir in protein powder. Top with sliced banana and almonds.",
+                "total_calories": 768,
+                "total_protein": 44.8,
+                "total_carbs": 102.8,
+                "total_fat": 23.2,
+                "meal_time": "08:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Quinoa and chicken salad",
+                "ingredients": [
+                    {"name": "Chicken Breast", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Quinoa", "amount": "200g", "calories": 220, "protein": 8, "carbs": 39.4, "fat": 3.6},
+                    {"name": "Spinach", "amount": "2 cups", "calories": 14, "protein": 1.8, "carbs": 2.2, "fat": 0.2},
+                    {"name": "Bell Peppers", "amount": "1 medium", "calories": 31, "protein": 1, "carbs": 7.6, "fat": 0.3},
+                    {"name": "Olive Oil", "amount": "1 tbsp", "calories": 119, "protein": 0, "carbs": 0, "fat": 13.5}
+                ],
+                "sauces": [
+                    {"name": "Balsamic Vinegar", "amount": "1 tbsp", "calories": 14, "protein": 0.1, "carbs": 2.7, "fat": 0}
+                ],
+                "cooking_instructions": "Cook chicken breast and quinoa separately. Mix all ingredients in a bowl and top with olive oil and balsamic vinegar.",
+                "total_calories": 563,
+                "total_protein": 41.9,
+                "total_carbs": 51.9,
+                "total_fat": 21.2,
+                "meal_time": "12:30"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon and sweet potato",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 367, "protein": 39, "carbs": 0, "fat": 23},
+                    {"name": "Sweet Potato", "amount": "200g", "calories": 180, "protein": 4, "carbs": 41.4, "fat": 0.3},
+                    {"name": "Broccoli", "amount": "1 cup", "calories": 55, "protein": 3.7, "carbs": 11.2, "fat": 0.6},
+                    {"name": "Olive Oil", "amount": "1 tbsp", "calories": 119, "protein": 0, "carbs": 0, "fat": 13.5}
+                ],
+                "sauces": [],
+                "cooking_instructions": "Bake salmon and sweet potato in the oven. Steam broccoli and serve all with a drizzle of olive oil.",
+                "total_calories": 721,
+                "total_protein": 46.7,
+                "total_carbs": 52.6,
+                "total_fat": 37.4,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:26:52] local.INFO: AI Response for day 17:  
+[2025-06-02 12:26:52] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Given the user's BMI status of Underweight, the goal is to gain weight in a healthy and balanced manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein Packed Breakfast",
+                "ingredients": [{"name": "Egg Whites", "amount": "200g", "calories": 104, "protein": 22, "carbs": 1.6, "fat": 0.4}],
+                "sauces": [{"name": "Hot Sauce (Zero Calorie)", "amount": "1 tbsp", "calories": 0, "protein": 0, "carbs": 0, "fat": 0}],
+                "cooking_instructions": "Whisk egg whites and cook in a non-stick pan over medium heat. Drizzle with hot sauce before serving.",
+                "total_calories": 104,
+                "total_protein": 22,
+                "total_carbs": 1.6,
+                "total_fat": 0.4,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Chicken and Quinoa Salad",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Quinoa (Cooked)", "amount": "1 cup", "calories": 222, "protein": 8.1, "carbs": 39.4, "fat": 3.6},
+                    {"name": "Broccoli", "amount": "1 cup", "calories": 55, "protein": 3.7, "carbs": 11.2, "fat": 0.6}
+                ],
+                "sauces": [{"name": "Balsamic Vinegar", "amount": "1 tbsp", "calories": 14, "protein": 0.1, "carbs": 2.7, "fat": 0}],
+                "cooking_instructions": "Grill the chicken breast until fully cooked. Mix cooked quinoa and broccoli in a bowl. Add sliced chicken and drizzle with balsamic vinegar.",
+                "total_calories": 456,
+                "total_protein": 42.8,
+                "total_carbs": 53.3,
+                "total_fat": 7.8,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon and Brown Rice",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "100g", "calories": 206, "protein": 22, "carbs": 0, "fat": 13},
+                    {"name": "Brown Rice (Cooked)", "amount": "1 cup", "calories": 215, "protein": 5, "carbs": 45, "fat": 1.8}
+                ],
+                "sauces": [{"name": "Low Sodium Soy Sauce", "amount": "1 tbsp", "calories": 9, "protein": 1, "carbs": 1, "fat": 0}],
+                "cooking_instructions": "Bake the salmon fillet in the oven at 180 degrees Celsius for 20 minutes. Serve with cooked brown rice and a drizzle of low sodium soy sauce.",
+                "total_calories": 430,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 14.8,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:27:31] local.INFO: AI Response for day 18:  
+[2025-06-02 12:27:31] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Based on the provided user's BMI status of Underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein Packed Oatmeal",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "50g", "calories": 190, "protein": 6.5, "carbs": 32, "fat": 3.5},
+                    {"name": "Whey Protein Powder", "amount": "1 scoop", "calories": 110, "protein": 24, "carbs": 1, "fat": 1},
+                    {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.4, "carbs": 7.4, "fat": 0.2},
+                    {"name": "Almonds", "amount": "10g", "calories": 57, "protein": 2.1, "carbs": 2, "fat": 5}
+                ],
+                "sauces": [
+                    {"name": "Honey", "amount": "1 tbsp", "calories": 64, "protein": 0, "carbs": 17, "fat": 0}
+                ],
+                "cooking_instructions": "Cook oats as per package instructions. Mix in protein powder while still hot. Top with blueberries and almonds. Drizzle honey on top.",
+                "total_calories": 450,
+                "total_protein": 33,
+                "total_carbs": 57.4,
+                "total_fat": 9.7,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Chicken and Quinoa Salad",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9},
+                    {"name": "Spinach", "amount": "30g", "calories": 7, "protein": 0.9, "carbs": 1.1, "fat": 0.1},
+                    {"name": "Bell Peppers", "amount": "50g", "calories": 15, "protein": 0.6, "carbs": 3.6, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Balsamic Vinegar", "amount": "1 tbsp", "calories": 14, "protein": 0.1, "carbs": 2.7, "fat": 0}
+                ],
+                "cooking_instructions": "Grill chicken breast until cooked through. Mix cooked quinoa, spinach, and bell peppers. Cut chicken into strips and add to the salad. Drizzle with balsamic vinegar.",
+                "total_calories": 321,
+                "total_protein": 36.7,
+                "total_carbs": 28.7,
+                "total_fat": 5.8,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon and Sweet Potato",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 280, "protein": 39, "carbs": 0, "fat": 13},
+                    {"name": "Sweet Potato", "amount": "100g", "calories": 86, "protein": 2, "carbs": 20, "fat": 0.1},
+                    {"name": "Asparagus", "amount": "100g", "calories": 20, "protein": 2.2, "carbs": 3.7, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Bake the salmon fillet and sweet potato in the oven. Steam asparagus. Serve with a squeeze of fresh lemon juice.",
+                "total_calories": 390,
+                "total_protein": 43.3,
+                "total_carbs": 25,
+                "total_fat": 13.3,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:28:06] local.INFO: AI Response for day 19:  
+[2025-06-02 12:28:06] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Given the user's BMI status of Underweight, the goal is to gain weight in a healthy and balanced manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-packed oatmeal",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "50g", "calories": 185, "protein": 6.5, "carbs": 33, "fat": 3.5},
+                    {"name": "Banana", "amount": "1 medium", "calories": 105, "protein": 1.3, "carbs": 27, "fat": 0.3},
+                    {"name": "Whey Protein Powder", "amount": "1 scoop", "calories": 110, "protein": 24, "carbs": 2, "fat": 1},
+                    {"name": "Almonds", "amount": "10g", "calories": 58, "protein": 2, "carbs": 2, "fat": 5}
+                ],
+                "sauces": [
+                    {"name": "Peanut Butter (Natural)", "amount": "1 tbsp", "calories": 90, "protein": 3.5, "carbs": 3, "fat": 8}
+                ],
+                "cooking_instructions": "Cook oats according to package instructions. Mix in protein powder. Top with sliced banana, almonds, and a dollop of peanut butter.",
+                "total_calories": 548,
+                "total_protein": 37.3,
+                "total_carbs": 67,
+                "total_fat": 17.8,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Chicken and quinoa salad",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9},
+                    {"name": "Spinach", "amount": "1 cup", "calories": 7, "protein": 0.9, "carbs": 1.1, "fat": 0.1},
+                    {"name": "Bell Peppers", "amount": "1 medium", "calories": 24, "protein": 1, "carbs": 6, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Balsamic Vinegar", "amount": "1 tbsp", "calories": 14, "protein": 0.1, "carbs": 2.7, "fat": 0}
+                ],
+                "cooking_instructions": "Cook chicken and quinoa separately. Mix spinach, chopped bell peppers, quinoa, and diced chicken in a bowl. Drizzle with balsamic vinegar.",
+                "total_calories": 330,
+                "total_protein": 37.1,
+                "total_carbs": 31.1,
+                "total_fat": 5.8,
+                "meal_time": "13:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon and sweet potato",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 350, "protein": 39, "carbs": 0, "fat": 22},
+                    {"name": "Sweet Potato", "amount": "200g", "calories": 180, "protein": 4, "carbs": 41, "fat": 0.3}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Bake salmon and sweet potato in oven. Season salmon with fresh lemon juice.",
+                "total_calories": 534,
+                "total_protein": 43.1,
+                "total_carbs": 42.3,
+                "total_fat": 22.3,
+                "meal_time": "20:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:28:40] local.INFO: AI Response for day 20:  
+[2025-06-02 12:28:40] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Given the user's BMI status of Underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-Packed Scramble",
+                "ingredients": [{"name": "Egg Whites", "amount": "200g", "calories": 104, "protein": 22, "carbs": 2, "fat": 0},
+                                {"name": "Spinach", "amount": "30g", "calories": 7, "protein": 0.9, "carbs": 1.1, "fat": 0.1},
+                                {"name": "Olive Oil", "amount": "1 tbsp", "calories": 119, "protein": 0, "carbs": 0, "fat": 13.5}],
+                "sauces": [{"name": "Hot Sauce (Zero Calorie)", "amount": "1 tbsp", "calories": 0, "protein": 0, "carbs": 0, "fat": 0}],
+                "cooking_instructions": "Scramble the egg whites and spinach together in a pan with olive oil. Season with hot sauce.",
+                "total_calories": 230,
+                "total_protein": 22.9,
+                "total_carbs": 3.1,
+                "total_fat": 13.6,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Grilled Chicken and Quinoa Salad",
+                "ingredients": [{"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 248, "protein": 51.6, "carbs": 0, "fat": 5.4},
+                                {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9},
+                                {"name": "Broccoli", "amount": "50g", "calories": 17, "protein": 1.2, "carbs": 3.4, "fat": 0.2}],
+                "sauces": [{"name": "Balsamic Vinegar", "amount": "1 tbsp", "calories": 14, "protein": 0.1, "carbs": 2.7, "fat": 0}],
+                "cooking_instructions": "Grill the chicken breast. Mix cooked quinoa and steamed broccoli. Drizzle with balsamic vinegar.",
+                "total_calories": 399,
+                "total_protein": 56.9,
+                "total_carbs": 27.4,
+                "total_fat": 7.5,
+                "meal_time": "12:30"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon with Asparagus",
+                "ingredients": [{"name": "Salmon Fillet", "amount": "150g", "calories": 280, "protein": 39, "carbs": 0, "fat": 13},
+                                {"name": "Asparagus", "amount": "100g", "calories": 20, "protein": 2, "carbs": 3.7, "fat": 0.2},
+                                {"name": "Olive Oil", "amount": "1 tbsp", "calories": 119, "protein": 0, "carbs": 0, "fat": 13.5}],
+                "sauces": [{"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}],
+                "cooking_instructions": "Bake the salmon fillet with olive oil. Serve with steamed asparagus and a squeeze of fresh lemon juice.",
+                "total_calories": 423,
+                "total_protein": 41.1,
+                "total_carbs": 5,
+                "total_fat": 26.7,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:29:10] local.INFO: AI Response for day 21:  
+[2025-06-02 12:29:10] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Given the user's BMI status of Underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Spinach and Egg White Scramble",
+                "ingredients": [
+                    {"name": "Egg Whites", "amount": "200g", "calories": 100, "protein": 20, "carbs": 2, "fat": 0},
+                    {"name": "Spinach", "amount": "30g", "calories": 7, "protein": 1, "carbs": 1, "fat": 0},
+                    {"name": "Avocado", "amount": "50g", "calories": 80, "protein": 1, "carbs": 4, "fat": 7}
+                ],
+                "sauces": [
+                    {"name": "Hot Sauce (Zero Calorie)", "amount": "1 tbsp", "calories": 0, "protein": 0, "carbs": 0, "fat": 0}
+                ],
+                "cooking_instructions": "Scramble the egg whites and spinach together in a pan. Top with sliced avocado and hot sauce.",
+                "total_calories": 187,
+                "total_protein": 22,
+                "total_carbs": 7,
+                "total_fat": 7,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Chicken and Quinoa Salad",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Quinoa (Cooked)", "amount": "185g", "calories": 220, "protein": 8, "carbs": 39, "fat": 3.5},
+                    {"name": "Spinach", "amount": "30g", "calories": 7, "protein": 1, "carbs": 1, "fat": 0}
+                ],
+                "sauces": [
+                    {"name": "Balsamic Vinegar", "amount": "1 tbsp", "calories": 14, "protein": 0.1, "carbs": 2.7, "fat": 0}
+                ],
+                "cooking_instructions": "Grill the chicken breast and slice it. Mix with cooked quinoa and spinach. Drizzle with balsamic vinegar.",
+                "total_calories": 406,
+                "total_protein": 40.1,
+                "total_carbs": 42.7,
+                "total_fat": 7.1,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon and Sweet Potato",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "154g", "calories": 280, "protein": 39, "carbs": 0, "fat": 13},
+                    {"name": "Sweet Potato", "amount": "200g", "calories": 180, "protein": 4, "carbs": 41, "fat": 0.3}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Bake the salmon fillet and sweet potato. Serve with a squeeze of fresh lemon juice.",
+                "total_calories": 464,
+                "total_protein": 43.1,
+                "total_carbs": 42.3,
+                "total_fat": 13.3,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:29:45] local.INFO: AI Response for day 22:  
+[2025-06-02 12:29:45] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "The user is underweight according to their BMI. The goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-packed Breakfast",
+                "ingredients": [
+                    {"name": "Egg Whites", "amount": "200g", "calories": 105, "protein": 22, "carbs": 1, "fat": 0},
+                    {"name": "Oats (Dry)", "amount": "50g", "calories": 190, "protein": 6.5, "carbs": 32, "fat": 3.5},
+                    {"name": "Banana", "amount": "100g", "calories": 89, "protein": 1.1, "carbs": 23, "fat": 0.3},
+                    {"name": "Chia Seeds", "amount": "15g", "calories": 70, "protein": 3, "carbs": 6, "fat": 5}
+                ],
+                "sauces": [],
+                "cooking_instructions": "Cook the oats according to package instructions. Add the egg whites and continue to stir until fully cooked. Top with sliced banana and sprinkle chia seeds.",
+                "total_calories": 454,
+                "total_protein": 32.6,
+                "total_carbs": 62,
+                "total_fat": 8.8,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Healthy Lunch Bowl",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 231, "protein": 43, "carbs": 0, "fat": 5},
+                    {"name": "Quinoa (Cooked)", "amount": "150g", "calories": 220, "protein": 8, "carbs": 39, "fat": 3.6},
+                    {"name": "Broccoli", "amount": "100g", "calories": 55, "protein": 3.7, "carbs": 11, "fat": 0.6}
+                ],
+                "sauces": [
+                    {"name": "Mustard (Yellow)", "amount": "1 tbsp", "calories": 9, "protein": 0.6, "carbs": 0.8, "fat": 0.5}
+                ],
+                "cooking_instructions": "Cook the chicken breast until done. Serve with cooked quinoa and steamed broccoli. Drizzle mustard on top.",
+                "total_calories": 515,
+                "total_protein": 55.3,
+                "total_carbs": 50.8,
+                "total_fat": 9.7,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Protein-rich Dinner",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 206, "protein": 22, "carbs": 0, "fat": 13},
+                    {"name": "Sweet Potato", "amount": "200g", "calories": 180, "protein": 4, "carbs": 41, "fat": 0.3},
+                    {"name": "Spinach", "amount": "100g", "calories": 23, "protein": 2.9, "carbs": 3.6, "fat": 0.4}
+                ],
+                "sauces": [
+                    {"name": "Coconut Aminos", "amount": "1 tbsp", "calories": 10, "protein": 0, "carbs": 2, "fat": 0}
+                ],
+                "cooking_instructions": "Grill the salmon fillet. Serve with baked sweet potato and sautéed spinach. Drizzle coconut aminos on top.",
+                "total_calories": 419,
+                "total_protein": 28.9,
+                "total_carbs": 46.6,
+                "total_fat": 13.7,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:30:21] local.INFO: AI Response for day 23:  
+[2025-06-02 12:30:21] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Given the user's BMI status of Underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-Packed Oatmeal",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "100g", "calories": 379, "protein": 13.2, "carbs": 67, "fat": 6.9},
+                    {"name": "Whey Protein Powder", "amount": "30g", "calories": 113, "protein": 24, "carbs": 2, "fat": 1},
+                    {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.4, "carbs": 7.4, "fat": 0.2},
+                    {"name": "Chia Seeds", "amount": "10g", "calories": 49, "protein": 1.6, "carbs": 4.1, "fat": 3.1}
+                ],
+                "sauces": [],
+                "cooking_instructions": "Cook the oats according to the package instructions. Mix in the whey protein powder. Top with blueberries and chia seeds.",
+                "total_calories": 570,
+                "total_protein": 39.2,
+                "total_carbs": 80.5,
+                "total_fat": 11.2,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Quinoa and Chicken Salad",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Quinoa (Cooked)", "amount": "200g", "calories": 220, "protein": 8, "carbs": 39.4, "fat": 3.6},
+                    {"name": "Spinach", "amount": "50g", "calories": 12, "protein": 1.6, "carbs": 2.1, "fat": 0.2},
+                    {"name": "Bell Peppers", "amount": "50g", "calories": 15, "protein": 0.6, "carbs": 3.6, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Balsamic Vinegar", "amount": "1 tbsp", "calories": 14, "protein": 0.1, "carbs": 2.7, "fat": 0}
+                ],
+                "cooking_instructions": "Grill the chicken breast and slice it. Mix the quinoa, spinach, bell peppers, and grilled chicken in a bowl. Drizzle with balsamic vinegar.",
+                "total_calories": 426,
+                "total_protein": 41.3,
+                "total_carbs": 47.8,
+                "total_fat": 7.6,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon with Broccoli and Sweet Potato",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 360, "protein": 39, "carbs": 0, "fat": 22.5},
+                    {"name": "Broccoli", "amount": "100g", "calories": 55, "protein": 3.7, "carbs": 11.2, "fat": 0.6},
+                    {"name": "Sweet Potato", "amount": "200g", "calories": 180, "protein": 4, "carbs": 41.4, "fat": 0.3}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Bake the salmon fillet in the oven. Steam the broccoli and bake the sweet potato. Serve the salmon with the broccoli and sweet potato, drizzled with fresh lemon juice.",
+                "total_calories": 599,
+                "total_protein": 46.8,
+                "total_carbs": 53.9,
+                "total_fat": 23.4,
+                "meal_time": "18:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:31:12] local.INFO: AI Response for day 24:  
+[2025-06-02 12:31:12] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "According to the provided BMI, the user is underweight. The aim is to help them gain weight in a healthy and sustainable way.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein Packed Breakfast",
+                "ingredients": [
+                  {"name": "Egg Whites", "amount": "150g", "calories": 82, "protein": 17, "carbs": 1, "fat": 0},
+                  {"name": "Oats (Dry)", "amount": "50g", "calories": 194, "protein": 6.5, "carbs": 35.5, "fat": 3.5},
+                  {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.4, "carbs": 7.4, "fat": 0.2}
+                ],
+                "sauces": [
+                  {"name": "Greek Yogurt (Plain 0%)", "amount": "2 tbsp", "calories": 17, "protein": 3, "carbs": 1.2, "fat": 0}
+                ],
+                "cooking_instructions": "Whisk the egg whites until frothy, then cook in a non-stick pan over medium heat. In a separate pot, cook oats according to package instructions then top with blueberries and Greek yogurt.",
+                "total_calories": 322,
+                "total_protein": 26.9,
+                "total_carbs": 45.1,
+                "total_fat": 3.7,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Salmon and Quinoa Salad",
+                "ingredients": [
+                  {"name": "Salmon Fillet", "amount": "100g", "calories": 206, "protein": 22, "carbs": 0, "fat": 13},
+                  {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9},
+                  {"name": "Spinach", "amount": "50g", "calories": 12, "protein": 1.6, "carbs": 1.8, "fat": 0.2}
+                ],
+                "sauces": [
+                  {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Cook the salmon fillet in a non-stick pan until done to your liking. Meanwhile, mix cooked quinoa with spinach. Drizzle with fresh lemon juice.",
+                "total_calories": 342,
+                "total_protein": 27.8,
+                "total_carbs": 24.4,
+                "total_fat": 15.1,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Chicken and Brown Rice",
+                "ingredients": [
+                  {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 231, "protein": 43, "carbs": 0, "fat": 5},
+                  {"name": "Brown Rice (Cooked)", "amount": "100g", "calories": 112, "protein": 2.6, "carbs": 23.5, "fat": 0.9},
+                  {"name": "Broccoli", "amount": "50g", "calories": 17, "protein": 1.5, "carbs": 3.4, "fat": 0.2}
+                ],
+                "sauces": [
+                  {"name": "Low Sodium Soy Sauce", "amount": "1 tbsp", "calories": 9, "protein": 0.9, "carbs": 0.8, "fat": 0}
+                ],
+                "cooking_instructions": "Cook the chicken breast in a non-stick pan until done. Serve with cooked brown rice and steamed broccoli. Drizzle with low sodium soy sauce.",
+                "total_calories": 369,
+                "total_protein": 48,
+                "total_carbs": 27.7,
+                "total_fat": 6.1,
+                "meal_time": "18:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:31:55] local.INFO: AI Response for day 25:  
+[2025-06-02 12:31:55] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "As the user is underweight according to their BMI, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-packed breakfast",
+                "ingredients": [
+                    {
+                        "name": "Egg Whites",
+                        "amount": "200g",
+                        "calories": 100,
+                        "protein": 20,
+                        "carbs": 2,
+                        "fat": 0
+                    },
+                    {
+                        "name": "Whole Wheat Pasta",
+                        "amount": "100g",
+                        "calories": 370,
+                        "protein": 16,
+                        "carbs": 75,
+                        "fat": 1.5
+                    },
+                    {
+                        "name": "Olive Oil",
+                        "amount": "1 tbsp",
+                        "calories": 120,
+                        "protein": 0,
+                        "carbs": 0,
+                        "fat": 14
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Pesto (Basil)",
+                        "amount": "2 tbsp",
+                        "calories": 150,
+                        "protein": 2,
+                        "carbs": 3,
+                        "fat": 15
+                    }
+                ],
+                "cooking_instructions": "Cook the pasta as per the instructions on the packet. In a separate pan, cook the egg whites until they are firm. Mix the pasta and egg whites together and top with olive oil and pesto sauce.",
+                "total_calories": 740,
+                "total_protein": 38,
+                "total_carbs": 80,
+                "total_fat": 30.5,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Healthy lunch bowl",
+                "ingredients": [
+                    {
+                        "name": "Chicken Breast (Skinless)",
+                        "amount": "200g",
+                        "calories": 330,
+                        "protein": 65,
+                        "carbs": 0,
+                        "fat": 7
+                    },
+                    {
+                        "name": "Quinoa (Cooked)",
+                        "amount": "200g",
+                        "calories": 220,
+                        "protein": 8,
+                        "carbs": 39,
+                        "fat": 3.5
+                    },
+                    {
+                        "name": "Broccoli",
+                        "amount": "100g",
+                        "calories": 55,
+                        "protein": 3.7,
+                        "carbs": 11.2,
+                        "fat": 0.6
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Coconut Aminos",
+                        "amount": "1 tbsp",
+                        "calories": 30,
+                        "protein": 0,
+                        "carbs": 7,
+                        "fat": 0
+                    }
+                ],
+                "cooking_instructions": "Cook chicken breast until no longer pink in the center. Cook quinoa as per packet instructions. Steam broccoli separately. Combine all in a bowl and top with coconut aminos.",
+                "total_calories": 635,
+                "total_protein": 76.7,
+                "total_carbs": 57.2,
+                "total_fat": 11.1,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Protein-rich dinner",
+                "ingredients": [
+                    {
+                        "name": "Salmon Fillet",
+                        "amount": "200g",
+                        "calories": 367,
+                        "protein": 39,
+                        "carbs": 0,
+                        "fat": 23
+                    },
+                    {
+                        "name": "Brown Rice (Cooked)",
+                        "amount": "200g",
+                        "calories": 216,
+                        "protein": 5,
+                        "carbs": 45,
+                        "fat": 1.8
+                    },
+                    {
+                        "name": "Asparagus",
+                        "amount": "100g",
+                        "calories": 20,
+                        "protein": 2,
+                        "carbs": 3.7,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Lemon Juice (Fresh)",
+                        "amount": "1 tbsp",
+                        "calories": 4,
+                        "protein": 0,
+                        "carbs": 1.3,
+                        "fat": 0
+                    }
+                ],
+                "cooking_instructions": "Bake salmon fillet in the oven at 200 degrees Celsius for 20 minutes. Cook brown rice as per packet instructions. Steam asparagus separately. Serve salmon with brown rice and asparagus, drizzled with fresh lemon juice.",
+                "total_calories": 607,
+                "total_protein": 46,
+                "total_carbs": 50,
+                "total_fat": 25,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:32:28] local.INFO: AI Response for day 26:  
+[2025-06-02 12:32:28] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "The user is underweight according to their BMI. The aim is to increase calorie intake in a healthy manner to reach a normal weight range.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-packed Oats",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "50g", "calories": 186, "protein": 6.6, "carbs": 33.5, "fat": 3.3},
+                    {"name": "Whey Protein Powder", "amount": "30g", "calories": 113, "protein": 24, "carbs": 1.5, "fat": 1}
+                ],
+                "sauces": [
+                    {"name": "Peanut Butter (Natural)", "amount": "1 tbsp", "calories": 94, "protein": 3.5, "carbs": 3, "fat": 8}
+                ],
+                "cooking_instructions": "Cook oats as per package instructions. Mix in whey protein powder. Top with a tablespoon of peanut butter.",
+                "total_calories": 393,
+                "total_protein": 34.1,
+                "total_carbs": 38,
+                "total_fat": 12.3,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Quinoa and Chicken Salad",
+                "ingredients": [
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9},
+                    {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 231, "protein": 43, "carbs": 0, "fat": 5}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0},
+                    {"name": "Olive Oil", "amount": "1 tbsp", "calories": 119, "protein": 0, "carbs": 0, "fat": 13.5}
+                ],
+                "cooking_instructions": "Cook chicken breast as desired. Mix quinoa, chicken, lemon juice, and olive oil.",
+                "total_calories": 474,
+                "total_protein": 47.2,
+                "total_carbs": 22.6,
+                "total_fat": 20.4,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon and Broccoli",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 280, "protein": 39, "carbs": 0, "fat": 13},
+                    {"name": "Broccoli", "amount": "100g", "calories": 55, "protein": 3.7, "carbs": 11.2, "fat": 0.6}
+                ],
+                "sauces": [
+                    {"name": "Coconut Aminos", "amount": "1 tbsp", "calories": 10, "protein": 0, "carbs": 2, "fat": 0}
+                ],
+                "cooking_instructions": "Bake salmon in the oven. Steam broccoli. Season with coconut aminos.",
+                "total_calories": 345,
+                "total_protein": 42.7,
+                "total_carbs": 13.2,
+                "total_fat": 13.6,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:33:13] local.INFO: AI Response for day 27:  
+[2025-06-02 12:33:13] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Given the user's BMI of 17.9, which is considered underweight, the goal is to gain weight.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein oats",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "50g", "calories": 186, "protein": 6.6, "carbs": 33.5, "fat": 3.5},
+                    {"name": "Whey Protein Powder", "amount": "30g", "calories": 113, "protein": 23.9, "carbs": 2.2, "fat": 1.2},
+                    {"name": "Almonds", "amount": "15g", "calories": 88, "protein": 3.4, "carbs": 3, "fat": 7.7},
+                    {"name": "Blueberries", "amount": "50g", "calories": 29, "protein": 0.4, "carbs": 7.4, "fat": 0.2}
+                ],
+                "sauces": [],
+                "cooking_instructions": "Cook oats as per package instructions. Once cooked, mix in the whey protein powder. Top with almonds and blueberries.",
+                "total_calories": 416,
+                "total_protein": 34.3,
+                "total_carbs": 46.1,
+                "total_fat": 12.6,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Quinoa and Chicken Salad",
+                "ingredients": [
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9},
+                    {"name": "Chicken Breast (Skinless)", "amount": "100g", "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6},
+                    {"name": "Bell Peppers", "amount": "50g", "calories": 15, "protein": 0.6, "carbs": 3.6, "fat": 0.2},
+                    {"name": "Spinach", "amount": "30g", "calories": 7, "protein": 0.9, "carbs": 1.1, "fat": 0.1}
+                ],
+                "sauces": [
+                    {"name": "Balsamic Vinegar", "amount": "1 tbsp", "calories": 14, "protein": 0.1, "carbs": 2.7, "fat": 0}
+                ],
+                "cooking_instructions": "Cook chicken breast and cut into slices. Mix quinoa, chicken slices, bell peppers, and spinach. Drizzle with balsamic vinegar.",
+                "total_calories": 321,
+                "total_protein": 36.7,
+                "total_carbs": 28.7,
+                "total_fat": 5.8,
+                "meal_time": "13:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Salmon and Sweet Potato",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "100g", "calories": 206, "protein": 22, "carbs": 0, "fat": 13},
+                    {"name": "Sweet Potato", "amount": "100g", "calories": 86, "protein": 2, "carbs": 20.1, "fat": 0.1},
+                    {"name": "Broccoli", "amount": "50g", "calories": 17, "protein": 1.2, "carbs": 3.4, "fat": 0.2}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Bake salmon and sweet potato. Steam broccoli. Serve with a squeeze of fresh lemon juice.",
+                "total_calories": 313,
+                "total_protein": 25.3,
+                "total_carbs": 24.8,
+                "total_fat": 13.3,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:33:27] local.INFO: AI Response for day 28:  
+[2025-06-02 12:33:27] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "The user's BMI is considered underweight. The goal is to increase calorie intake in a healthy manner to help gain weight.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein Oats",
+                "ingredients": [
+                    {"name": "Oats (Dry)", "amount": "50g", "calories": 186, "protein": 6, "carbs": 34, "fat": 2},
+                    {"name": "Banana", "amount": "1 medium", "calories": 105, "protein": 1, "carbs": 27, "fat": 0},
+                    {"name": "Whey Protein Powder", "amount": "1 scoop", "calories": 110, "protein": 20, "carbs": 5, "fat": 1}
+                ],
+                "sauces": [
+                    {"name": "Honey", "amount": "1 tbsp", "calories": 64, "protein": 0, "carbs": 17, "fat": 0}
+                ],
+                "cooking_instructions": "Combine oats with water or almond milk and cook according to package instructions. Mix in protein powder and top with sliced banana and a drizzle of honey.",
+                "total_calories": 465,
+                "total_protein": 27,
+                "total_carbs": 83,
+                "total_fat": 3,
+                "meal_time": "07:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:34:07] local.INFO: AI Response for day 29:  
+[2025-06-02 12:34:07] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "Based on the user's profile, the primary goal is to gain weight in a healthy and gradual manner. The user is currently underweight according to their BMI, and the TDEE indicates the daily calories needed for maintaining current weight. We aim to provide a meal plan that exceeds the TDEE to ensure weight gain.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein-Packed Breakfast",
+                "ingredients": [
+                    {"name": "Egg Whites", "amount": "150g", "calories": 78, "protein": 17, "carbs": 1, "fat": 0},
+                    {"name": "Ezekiel Bread", "amount": "2 slices", "calories": 160, "protein": 8, "carbs": 30, "fat": 1},
+                    {"name": "Avocado", "amount": "50g", "calories": 80, "protein": 1, "carbs": 4, "fat": 7}
+                ],
+                "sauces": [{"name": "Hot Sauce (Zero Calorie)", "amount": "1 tbsp", "calories": 0, "protein": 0, "carbs": 0, "fat": 0}],
+                "cooking_instructions": "Toast the Ezekiel bread, spread the avocado on top and add the egg whites. Drizzle with hot sauce.",
+                "total_calories": 318,
+                "total_protein": 26,
+                "total_carbs": 35,
+                "total_fat": 8,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "Healthy Lunch Bowl",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 231, "protein": 43, "carbs": 0, "fat": 5},
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4, "carbs": 21, "fat": 2},
+                    {"name": "Broccoli", "amount": "100g", "calories": 55, "protein": 3.7, "carbs": 11.2, "fat": 0.6}
+                ],
+                "sauces": [{"name": "Low Sodium Soy Sauce", "amount": "1 tbsp", "calories": 9, "protein": 1, "carbs": 1, "fat": 0}],
+                "cooking_instructions": "Cook the chicken breast and cut into slices. Serve with quinoa and steamed broccoli. Drizzle with low sodium soy sauce.",
+                "total_calories": 415,
+                "total_protein": 51.7,
+                "total_carbs": 33.2,
+                "total_fat": 7.6,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Hearty Dinner",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 280, "protein": 39, "carbs": 0, "fat": 13},
+                    {"name": "Sweet Potato", "amount": "200g", "calories": 180, "protein": 4, "carbs": 41, "fat": 0},
+                    {"name": "Asparagus", "amount": "100g", "calories": 20, "protein": 2, "carbs": 3.7, "fat": 0.2}
+                ],
+                "sauces": [{"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}],
+                "cooking_instructions": "Bake the salmon fillet and sweet potato. Serve with steamed asparagus. Squeeze fresh lemon juice over the dish.",
+                "total_calories": 484,
+                "total_protein": 45.1,
+                "total_carbs": 46,
+                "total_fat": 13.2,
+                "meal_time": "19:00"
+            }
+        ]
+    }
+}  
+[2025-06-02 12:35:12] local.INFO: AI Response for day 30:  
+[2025-06-02 12:35:12] local.INFO: {
+    "goal_decision": "gain",
+    "goal_explanation": "As the user's BMI is underweight, the goal is to gain weight in a healthy and gradual manner.",
+    "day_meal_plan": {
+        "day": 1,
+        "meals": [
+            {
+                "meal_type": "breakfast",
+                "meal_name": "Protein Packed Breakfast",
+                "ingredients": [
+                    {"name": "Egg Whites", "amount": "150g", "calories": 82, "protein": 17, "carbs": 1, "fat": 0},
+                    {"name": "Oats", "amount": "50g", "calories": 194, "protein": 6.6, "carbs": 33.3, "fat": 3.7},
+                    {"name": "Banana", "amount": "100g", "calories": 89, "protein": 1.1, "carbs": 23, "fat": 0.3},
+                    {"name": "Chia Seeds", "amount": "15g", "calories": 70, "protein": 2.3, "carbs": 6, "fat": 4.7}
+                ],
+                "sauces": [
+                    {"name": "Peanut Butter", "amount": "1 tbsp", "calories": 94, "protein": 3.6, "carbs": 3.6, "fat": 8}
+                ],
+                "cooking_instructions": "Cook the oats with water or almond milk and add the egg whites in the last 5 minutes of cooking. Stir well. Top the cooked oats with sliced banana, chia seeds and a spoonful of peanut butter.",
+                "total_calories": 529,
+                "total_protein": 30,
+                "total_carbs": 66.9,
+                "total_fat": 16.7,
+                "meal_time": "07:00"
+            },
+            {
+                "meal_type": "lunch",
+                "meal_name": "High Protein Lunch",
+                "ingredients": [
+                    {"name": "Chicken Breast (Skinless)", "amount": "150g", "calories": 247.5, "protein": 51.3, "carbs": 0, "fat": 3.4},
+                    {"name": "Brown Rice (Cooked)", "amount": "100g", "calories": 112, "protein": 2.6, "carbs": 23.5, "fat": 0.9},
+                    {"name": "Broccoli", "amount": "100g", "calories": 55, "protein": 3.7, "carbs": 11.2, "fat": 0.6}
+                ],
+                "sauces": [
+                    {"name": "Soy Sauce", "amount": "1 tbsp", "calories": 9, "protein": 1, "carbs": 1, "fat": 0}
+                ],
+                "cooking_instructions": "Grill the chicken breast, season as desired. Cook the brown rice according to package instructions. Steam the broccoli. Serve everything together with a drizzle of soy sauce.",
+                "total_calories": 423.5,
+                "total_protein": 58.6,
+                "total_carbs": 35.7,
+                "total_fat": 4.9,
+                "meal_time": "12:00"
+            },
+            {
+                "meal_type": "dinner",
+                "meal_name": "Healthy Dinner",
+                "ingredients": [
+                    {"name": "Salmon Fillet", "amount": "150g", "calories": 281.25, "protein": 39.4, "carbs": 0, "fat": 13.1},
+                    {"name": "Quinoa (Cooked)", "amount": "100g", "calories": 120, "protein": 4.1, "carbs": 21.3, "fat": 1.9},
+                    {"name": "Spinach", "amount": "100g", "calories": 23, "protein": 2.9, "carbs": 3.6, "fat": 0.4}
+                ],
+                "sauces": [
+                    {"name": "Lemon Juice (Fresh)", "amount": "1 tbsp", "calories": 4, "protein": 0.1, "carbs": 1.3, "fat": 0}
+                ],
+                "cooking_instructions": "Bake the salmon in the oven, season with salt, pepper and fresh lemon juice. Cook quinoa according to package instructions. Saute spinach in a pan with a little bit of olive oil.",
+                "total_calories": 428.25,
+                "total_protein": 46.5,
+                "total_carbs": 26.2,
+                "total_fat": 15.4,
+                "meal_time": "18:00"
+            }
+        ]
+    }
+}  

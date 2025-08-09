@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        @apply scroll-smooth;
+    }
+    
+    body {
+        @apply antialiased text-text-primary;
+        font-size: 16px;
+        line-height: 1.6;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+        @apply text-text-primary font-display;
+        line-height: 1.2;
+    }
+    
+    p {
+        @apply text-text-secondary;
+    }
+}
+
+@layer components {
+    /* Modern Button Styles */
+    .btn-primary {
+        @apply relative inline-flex items-center justify-center px-6 py-3 overflow-hidden font-medium text-white transition-all duration-300 ease-out border-2 border-primary-500 rounded-lg group bg-gradient-to-br from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700;
+    }
+    
+    .btn-primary:hover {
+        @apply shadow-glow transform -translate-y-0.5;
+    }
+    
+    .btn-secondary {
+        @apply relative inline-flex items-center justify-center px-6 py-3 overflow-hidden font-medium text-primary-500 transition-all duration-300 ease-out bg-transparent border-2 border-primary-500 rounded-lg hover:text-white group;
+    }
+    
+    .btn-secondary:hover {
+        @apply bg-primary-500 shadow-glow;
+    }
+    
+    /* Modern Card Styles */
+    .card-modern {
+        @apply relative overflow-hidden bg-surface-overlay rounded-2xl border border-surface-600/30 shadow-lg;
+    }
+    
+    .card-modern-dark {
+        @apply relative overflow-hidden bg-surface-elevated rounded-2xl border border-surface-700/50 shadow-xl;
+    }
+    
+    .card-glow {
+        @apply relative overflow-hidden rounded-2xl bg-surface-overlay border-2 border-primary-500/50 shadow-lg shadow-primary-500/20;
+    }
+    
+    .stat-card {
+        @apply bg-surface-overlay border border-surface-600/30 backdrop-filter backdrop-blur-sm transition-all duration-300;
+    }
+    
+    .stat-card:hover {
+        @apply transform -translate-y-1 shadow-xl border-primary-500/50;
+    }
+    
+    /* Glassmorphism Effects */
+    .glass {
+        @apply bg-surface-overlay/80 backdrop-blur-md border border-surface-600/50 shadow-xl;
+    }
+    
+    .glass-dark {
+        @apply bg-surface-elevated/90 backdrop-blur-md border border-surface-700/50 shadow-xl;
+    }
+    
+    /* Text Gradient */
+    .text-gradient {
+        @apply bg-gradient-to-r from-primary-400 to-primary-600 bg-clip-text text-transparent;
+    }
+    
+    /* Loading Spinner */
+    .spinner {
+        @apply inline-block w-8 h-8 border-4 border-primary-200 border-t-primary-500 rounded-full animate-spin;
+    }
+    
+    /* Progress Bar */
+    .progress-bar-modern {
+        @apply relative h-2 bg-dark-800 rounded-full overflow-hidden;
+    }
+    
+    .progress-bar-modern::after {
+        content: '';
+        @apply absolute top-0 left-0 h-full bg-gradient-to-r from-primary-400 to-primary-600 rounded-full transition-all duration-500 ease-out;
+        animation: shimmer 2s ease-in-out infinite;
+    }
+    
+    /* Input Styles */
+    .input-modern {
+        @apply w-full px-4 py-3 text-text-primary bg-surface-overlay border border-surface-600 rounded-lg focus:outline-none focus:border-primary-500 focus:ring-2 focus:ring-primary-500/30 transition-all duration-200 placeholder-text-muted;
+    }
+    
+    /* Select Styles */
+    .select-modern {
+        @apply w-full px-4 py-3 text-text-primary bg-surface-overlay border border-surface-600 rounded-lg focus:outline-none focus:border-primary-500 focus:ring-2 focus:ring-primary-500/30 transition-all duration-200 cursor-pointer;
+    }
+}
+
+@layer utilities {
+    /* Animations */
+    @keyframes shimmer {
+        0% {
+            transform: translateX(-100%);
+        }
+        100% {
+            transform: translateX(200%);
+        }
+    }
+    
+    @keyframes slide-up {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+    
+    @keyframes fade-in {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+    
+    @keyframes scale-up {
+        from {
+            opacity: 0;
+            transform: scale(0.95);
+        }
+        to {
+            opacity: 1;
+            transform: scale(1);
+        }
+    }
+    
+    .animate-slide-up {
+        animation: slide-up 0.5s ease-out;
+    }
+    
+    .animate-fade-in {
+        animation: fade-in 0.5s ease-out;
+    }
+    
+    .animate-scale-up {
+        animation: scale-up 0.3s ease-out;
+    }
+    
+    /* Hover Effects */
+    .hover-lift {
+        @apply transition-transform duration-300 hover:-translate-y-1;
+    }
+    
+    .hover-glow {
+        @apply transition-all duration-300 hover:shadow-glow;
+    }
+    
+    /* Background Patterns */
+    .bg-grid-pattern {
+        background-image: 
+            linear-gradient(to right, rgba(127, 90, 240, 0.1) 1px, transparent 1px),
+            linear-gradient(to bottom, rgba(127, 90, 240, 0.1) 1px, transparent 1px);
+        background-size: 40px 40px;
+    }
+    
+    .bg-dots-pattern {
+        background-image: radial-gradient(circle, rgba(127, 90, 240, 0.1) 1px, transparent 1px);
+        background-size: 20px 20px;
+    }
+    
+    /* Custom Scrollbar */
+    .custom-scrollbar::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+    }
+    
+    .custom-scrollbar::-webkit-scrollbar-track {
+        @apply bg-surface-base;
+    }
+    
+    .custom-scrollbar::-webkit-scrollbar-thumb {
+        @apply bg-surface-600 rounded-full;
+    }
+    
+    .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+        @apply bg-primary-500;
+    }
+    
+    /* Focus States for Accessibility */
+    .focus-visible-ring {
+        @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 focus-visible:ring-offset-2 focus-visible:ring-offset-surface-base;
+    }
+}

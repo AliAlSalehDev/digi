@@ -1,0 +1,5281 @@
+[
+    {
+        "goal": "gain",
+        "day": 1,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein-Packed Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo, top with Tempeh. Serve with Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 2,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein Toast with Olive Oil",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Olive Oil Spray",
+                        "amount": "1 serving",
+                        "cal": 0,
+                        "protein": 0,
+                        "carbs": 0,
+                        "fat": 0
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spray with Olive Oil, top with Tempeh.",
+                "total_cal": 353,
+                "total_protein": 27,
+                "total_carbs": 39,
+                "total_fat": 12
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh and Orange Salad",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Olive Oil Spray",
+                        "amount": "1 serving",
+                        "cal": 0,
+                        "protein": 0,
+                        "carbs": 0,
+                        "fat": 0
+                    }
+                ],
+                "instructions": "Dice the Tempeh and Orange, combine in a salad and spray with Olive Oil.",
+                "total_cal": 351,
+                "total_protein": 29.2,
+                "total_carbs": 29.4,
+                "total_fat": 16.2
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve on toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1335,
+            "protein": 113.2,
+            "carbs": 134.4,
+            "fat": 47.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 3,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Orange Tempeh Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Olive Oil Spray",
+                        "amount": "1 serving",
+                        "cal": 0,
+                        "protein": 0,
+                        "carbs": 0,
+                        "fat": 0
+                    }
+                ],
+                "instructions": "Toast the bread, spray with Olive Oil, top with Tempeh and Orange slices.",
+                "total_cal": 415,
+                "total_protein": 28.2,
+                "total_carbs": 54.4,
+                "total_fat": 12.2
+            },
+            {
+                "type": "lunch",
+                "name": "Protein-Packed Tempeh",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    },
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with a side of Whey Protein Shake.",
+                "total_cal": 437,
+                "total_protein": 53,
+                "total_carbs": 23,
+                "total_fat": 18
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh and Olive Oil Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Olive Oil Spray",
+                        "amount": "1 serving",
+                        "cal": 0,
+                        "protein": 0,
+                        "carbs": 0,
+                        "fat": 0
+                    }
+                ],
+                "instructions": "Toast the bread, spray with Olive Oil, top with Tempeh.",
+                "total_cal": 353,
+                "total_protein": 27,
+                "total_carbs": 39,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Toasted Bread with Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1448,
+            "protein": 137.2,
+            "carbs": 136.4,
+            "fat": 48.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 4,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Tempeh and Orange Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the bread, spread Avocado Mayo, top with Tempeh and Orange slices.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Protein Plate",
+                "time": "12:30",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Grill the Tempeh and serve with a side of Whey Protein Shake.",
+                "total_cal": 306,
+                "total_protein": 43,
+                "total_carbs": 11,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "16:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "20:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Toast the bread, top with Tempeh cooked in Marinara Sauce.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Guacamole Toast",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1446,
+            "protein": 128.2,
+            "carbs": 132.4,
+            "fat": 53.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 5,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein-Packed Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Olive Oil Spray",
+                        "amount": "1 serving",
+                        "cal": 0,
+                        "protein": 0,
+                        "carbs": 0,
+                        "fat": 0
+                    }
+                ],
+                "instructions": "Toast the bread, spray with Olive Oil, top with Tempeh.",
+                "total_cal": 353,
+                "total_protein": 27,
+                "total_carbs": 39,
+                "total_fat": 12
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh and Orange Salad",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Olive Oil Spray",
+                        "amount": "1 serving",
+                        "cal": 0,
+                        "protein": 0,
+                        "carbs": 0,
+                        "fat": 0
+                    }
+                ],
+                "instructions": "Dice the Tempeh and Orange, combine in a salad and spray with Olive Oil.",
+                "total_cal": 351,
+                "total_protein": 29.2,
+                "total_carbs": 29.4,
+                "total_fat": 16.2
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1335,
+            "protein": 113.4,
+            "carbs": 134.4,
+            "fat": 47.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 6,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein-Packed Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "1 tbsp",
+                        "cal": 25,
+                        "protein": 0.5,
+                        "carbs": 1.5,
+                        "fat": 2.25
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Guacamole, top with Tempeh. Serve with Orange on the side.",
+                "total_cal": 440,
+                "total_protein": 28.7,
+                "total_carbs": 55.9,
+                "total_fat": 14.45
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh and Orange Salad",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Olive Oil Spray",
+                        "amount": "1 serving",
+                        "cal": 0,
+                        "protein": 0,
+                        "carbs": 0,
+                        "fat": 0
+                    }
+                ],
+                "instructions": "Dice the Tempeh and Orange, combine in a salad and spray with Olive Oil.",
+                "total_cal": 351,
+                "total_protein": 29.2,
+                "total_carbs": 29.4,
+                "total_fat": 16.2
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "18:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Avocado Mayo",
+                "time": "21:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Avocado Mayo.",
+                "total_cal": 174,
+                "total_protein": 4,
+                "total_carbs": 16,
+                "total_fat": 10.5
+            }
+        ],
+        "daily_total": {
+            "calories": 1466,
+            "protein": 113.9,
+            "carbs": 149.3,
+            "fat": 55.15
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 7,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Tempeh Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo, top with Tempeh.",
+                "total_cal": 447,
+                "total_protein": 27,
+                "total_carbs": 40,
+                "total_fat": 22
+            },
+            {
+                "type": "lunch",
+                "name": "Protein Power Lunch",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Prepare a Whey Protein Shake. Serve with Tempeh on the side.",
+                "total_cal": 306,
+                "total_protein": 43,
+                "total_carbs": 11,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1384,
+            "protein": 127,
+            "carbs": 117,
+            "fat": 53
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 8,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein-Packed Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo, top with Tempeh. Serve with Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 9,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein-Packed Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "1 tbsp",
+                        "cal": 25,
+                        "protein": 0.5,
+                        "carbs": 1.5,
+                        "fat": 2.25
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Guacamole, top with Tempeh. Serve with Orange on the side.",
+                "total_cal": 440,
+                "total_protein": 28.7,
+                "total_carbs": 56.4,
+                "total_fat": 14.45
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Avocado Mayo",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Avocado Mayo.",
+                "total_cal": 174,
+                "total_protein": 4,
+                "total_carbs": 16,
+                "total_fat": 10.5
+            }
+        ],
+        "daily_total": {
+            "calories": 1438,
+            "protein": 114.7,
+            "carbs": 139.4,
+            "fat": 56.45
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 10,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein-Packed Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo, top with Tempeh. Serve with Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 11,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein-Packed Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo, top with Tempeh. Serve with Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 12,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Tempeh Toast with Avocado Mayo",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo, top with Tempeh.",
+                "total_cal": 447,
+                "total_protein": 27,
+                "total_carbs": 40,
+                "total_fat": 22
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 227,
+                "total_protein": 21,
+                "total_carbs": 14,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Orange",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Peel and eat the Orange.",
+                "total_cal": 62,
+                "total_protein": 1.2,
+                "total_carbs": 15.4,
+                "total_fat": 0.2
+            }
+        ],
+        "daily_total": {
+            "calories": 1237,
+            "protein": 101.2,
+            "carbs": 117.4,
+            "fat": 48.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 13,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Avocado Mayo Toast with Orange",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo. Serve with Orange on the side.",
+                "total_cal": 316,
+                "total_protein": 9.2,
+                "total_carbs": 46.4,
+                "total_fat": 11.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 227,
+                "total_protein": 21,
+                "total_carbs": 14,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast with Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1174,
+            "protein": 87.2,
+            "carbs": 126.4,
+            "fat": 42.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 14,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein-Packed Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo, top with Tempeh. Serve with Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 15,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein Toast with Orange",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the bread, spread mayo, top with tempeh. Serve with orange.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry tempeh with miso paste.",
+                "total_cal": 227,
+                "total_protein": 21,
+                "total_carbs": 14,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix protein powder with water or milk.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook tempeh in marinara sauce and serve over toasted bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Toast with Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the bread and spread with guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1367,
+            "protein": 106.2,
+            "carbs": 135.4,
+            "fat": 53.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 16,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the bread, spread mayo, top with tempeh. Serve with orange.",
+                "total_cal": 429,
+                "total_protein": 24.2,
+                "total_carbs": 40.4,
+                "total_fat": 21.7
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry tempeh with miso paste.",
+                "total_cal": 227,
+                "total_protein": 21,
+                "total_carbs": 14,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix protein powder with water or milk.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook tempeh in marinara sauce and serve over toasted bread.",
+                "total_cal": 308,
+                "total_protein": 24,
+                "total_carbs": 31,
+                "total_fat": 12.5
+            },
+            {
+                "type": "snack",
+                "name": "Toast with Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the bread and spread with guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1207,
+            "protein": 98.2,
+            "carbs": 105.4,
+            "fat": 52.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 17,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein Toast with Orange",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the bread, spread mayo, top with tempeh. Serve with orange.",
+                "total_cal": 429,
+                "total_protein": 24.2,
+                "total_carbs": 40.4,
+                "total_fat": 21.7
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry tempeh with miso paste.",
+                "total_cal": 227,
+                "total_protein": 21,
+                "total_carbs": 14,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix protein powder with water or milk.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook tempeh in marinara sauce and serve over toasted bread.",
+                "total_cal": 308,
+                "total_protein": 24,
+                "total_carbs": 31,
+                "total_fat": 12.5
+            },
+            {
+                "type": "snack",
+                "name": "Toast with Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the bread and spread with guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1207,
+            "protein": 98.2,
+            "carbs": 105.4,
+            "fat": 52.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 18,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the bread, spread mayo, top with tempeh. Serve with orange.",
+                "total_cal": 429,
+                "total_protein": 24.2,
+                "total_carbs": 40.4,
+                "total_fat": 21.7
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry tempeh with miso paste.",
+                "total_cal": 227,
+                "total_protein": 21,
+                "total_carbs": 14,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix protein powder with water or milk.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook tempeh in marinara sauce and serve over toasted bread.",
+                "total_cal": 308,
+                "total_protein": 24,
+                "total_carbs": 31,
+                "total_fat": 12.5
+            },
+            {
+                "type": "snack",
+                "name": "Toast with Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the bread and spread with guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1207,
+            "protein": 98.2,
+            "carbs": 105.4,
+            "fat": 52.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 19,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein Toast with Orange",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the bread, spread mayo, top with tempeh. Serve with orange.",
+                "total_cal": 429,
+                "total_protein": 24.2,
+                "total_carbs": 40.4,
+                "total_fat": 21.7
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry tempeh with miso paste.",
+                "total_cal": 227,
+                "total_protein": 21,
+                "total_carbs": 14,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix protein powder with water or milk.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook tempeh in marinara sauce and serve over toasted bread.",
+                "total_cal": 308,
+                "total_protein": 24,
+                "total_carbs": 31,
+                "total_fat": 12.5
+            },
+            {
+                "type": "snack",
+                "name": "Toast with Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the bread and spread with guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1207,
+            "protein": 98.2,
+            "carbs": 105.4,
+            "fat": 52.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 20,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Tempeh Toast with Orange",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the bread, spread avocado mayo, top with tempeh. Serve with orange.",
+                "total_cal": 429,
+                "total_protein": 24.2,
+                "total_carbs": 40.4,
+                "total_fat": 21.7
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry tempeh with miso paste.",
+                "total_cal": 227,
+                "total_protein": 21,
+                "total_carbs": 14,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix protein powder with water or milk.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook tempeh in marinara sauce and serve over toasted bread.",
+                "total_cal": 308,
+                "total_protein": 24,
+                "total_carbs": 31,
+                "total_fat": 12.5
+            },
+            {
+                "type": "snack",
+                "name": "Toast with Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the bread and spread with guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1207,
+            "protein": 98.2,
+            "carbs": 105.4,
+            "fat": 52.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 21,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Tempeh Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the bread, spread avocado mayo, top with tempeh.",
+                "total_cal": 367,
+                "total_protein": 23,
+                "total_carbs": 25,
+                "total_fat": 21.5
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "120g",
+                        "cal": 232,
+                        "protein": 23,
+                        "carbs": 11,
+                        "fat": 13
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir fry the tempeh with miso paste in a pan.",
+                "total_cal": 266,
+                "total_protein": 25,
+                "total_carbs": 16,
+                "total_fat": 14
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix whey protein powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook tempeh in marinara sauce and serve over toasted bread.",
+                "total_cal": 308,
+                "total_protein": 24,
+                "total_carbs": 31,
+                "total_fat": 12.5
+            },
+            {
+                "type": "snack",
+                "name": "Orange",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Peel and eat the orange.",
+                "total_cal": 62,
+                "total_protein": 1.2,
+                "total_carbs": 15.4,
+                "total_fat": 0.2
+            }
+        ],
+        "daily_total": {
+            "calories": 1116,
+            "protein": 97.2,
+            "carbs": 89.4,
+            "fat": 49.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 22,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Tempeh Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the bread, spread avocado mayo, top with tempeh.",
+                "total_cal": 367,
+                "total_protein": 23,
+                "total_carbs": 25,
+                "total_fat": 21.5
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "120g",
+                        "cal": 232,
+                        "protein": 23,
+                        "carbs": 11,
+                        "fat": 13
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir fry the tempeh with miso paste in a pan.",
+                "total_cal": 266,
+                "total_protein": 25,
+                "total_carbs": 16,
+                "total_fat": 14
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix whey protein powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara Toast",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook tempeh in marinara sauce and serve over toasted bread.",
+                "total_cal": 308,
+                "total_protein": 24,
+                "total_carbs": 31,
+                "total_fat": 12.5
+            },
+            {
+                "type": "snack",
+                "name": "Evening Protein Shake",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix whey protein powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            }
+        ],
+        "daily_total": {
+            "calories": 1167,
+            "protein": 120,
+            "carbs": 76,
+            "fat": 50
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 23,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein-Packed Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo, top with Tempeh. Serve with Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 24,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein-Packed Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo, top with Tempeh. Serve with Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 25,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Tempeh Toast with Avocado Mayo",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo, top with Tempeh. Serve with Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 26,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Tempeh Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo and top with Tempeh. Serve with an Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 27,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Tempeh Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo and top with Tempeh. Serve with an Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 28,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Tempeh Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo and top with Tempeh. Serve with an Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 29,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Protein-Packed Toast",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "amount": "1 medium",
+                        "cal": 62,
+                        "protein": 1.2,
+                        "carbs": 15.4,
+                        "fat": 0.2
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread, spread Avocado Mayo, top with Tempeh. Serve with Orange on the side.",
+                "total_cal": 509,
+                "total_protein": 28.2,
+                "total_carbs": 55.4,
+                "total_fat": 22.2
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "150g",
+                        "cal": 289,
+                        "protein": 28,
+                        "carbs": 14,
+                        "fat": 16
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 323,
+                "total_protein": 30,
+                "total_carbs": 19,
+                "total_fat": 17
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1463,
+            "protein": 115.2,
+            "carbs": 140.4,
+            "fat": 58.2
+        }
+    },
+    {
+        "goal": "gain",
+        "day": 30,
+        "target_calories": 1938,
+        "meals": [
+            {
+                "type": "breakfast",
+                "name": "Tempeh and Avocado Toast",
+                "time": "08:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Avocado Mayo",
+                        "amount": "1 tbsp",
+                        "cal": 94,
+                        "protein": 0,
+                        "carbs": 1,
+                        "fat": 10
+                    }
+                ],
+                "instructions": "Toast the bread, spread Avocado Mayo, top with Tempeh.",
+                "total_cal": 447,
+                "total_protein": 27,
+                "total_carbs": 40,
+                "total_fat": 22
+            },
+            {
+                "type": "lunch",
+                "name": "Tempeh Stir-Fry",
+                "time": "12:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Miso Paste (Low Sodium)",
+                        "amount": "1 tbsp",
+                        "cal": 34,
+                        "protein": 2,
+                        "carbs": 5,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Stir-fry the Tempeh with Miso paste.",
+                "total_cal": 227,
+                "total_protein": 21,
+                "total_carbs": 14,
+                "total_fat": 12
+            },
+            {
+                "type": "snack",
+                "name": "Protein Shake",
+                "time": "15:00",
+                "ingredients": [
+                    {
+                        "name": "Whey Protein Powder",
+                        "amount": "30g",
+                        "cal": 113,
+                        "protein": 24,
+                        "carbs": 2,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [],
+                "instructions": "Mix Whey Protein Powder with water.",
+                "total_cal": 113,
+                "total_protein": 24,
+                "total_carbs": 2,
+                "total_fat": 1
+            },
+            {
+                "type": "dinner",
+                "name": "Tempeh Marinara",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "Tempeh",
+                        "amount": "100g",
+                        "cal": 193,
+                        "protein": 19,
+                        "carbs": 9,
+                        "fat": 11
+                    },
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "2 slices",
+                        "cal": 160,
+                        "protein": 8,
+                        "carbs": 30,
+                        "fat": 1
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Marinara Sauce (No Sugar)",
+                        "amount": "1/4 cup",
+                        "cal": 35,
+                        "protein": 1,
+                        "carbs": 7,
+                        "fat": 1
+                    }
+                ],
+                "instructions": "Cook the Tempeh with Marinara Sauce. Serve with toasted Ezekiel Bread.",
+                "total_cal": 388,
+                "total_protein": 28,
+                "total_carbs": 46,
+                "total_fat": 13
+            },
+            {
+                "type": "snack",
+                "name": "Ezekiel Toast & Guacamole",
+                "time": "22:00",
+                "ingredients": [
+                    {
+                        "name": "Ezekiel Bread",
+                        "amount": "1 slice",
+                        "cal": 80,
+                        "protein": 4,
+                        "carbs": 15,
+                        "fat": 0.5
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "Guacamole (Fresh)",
+                        "amount": "2 tbsp",
+                        "cal": 50,
+                        "protein": 1,
+                        "carbs": 3,
+                        "fat": 4.5
+                    }
+                ],
+                "instructions": "Toast the Ezekiel bread and spread with Guacamole.",
+                "total_cal": 130,
+                "total_protein": 5,
+                "total_carbs": 18,
+                "total_fat": 5
+            }
+        ],
+        "daily_total": {
+            "calories": 1305,
+            "protein": 105,
+            "carbs": 120,
+            "fat": 53
+        }
+    }
+]

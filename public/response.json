@@ -1,0 +1,306 @@
+{
+    "goal": "maintain",
+    "meals": [
+        [
+            {
+                "type": "morning drink",
+                "name": "Black Coffee",
+                "time": "06:30",
+                "ingredients": [
+                    {
+                        "name": "Black Coffee",
+                        "amount": "1 cup",
+                        "cal": 2,
+                        "protein": 0,
+                        "carbs": 0,
+                        "fat": 0,
+                        "price": 1
+                    }
+                ],
+                "instructions": "Serve hot without sugar.",
+                "total_cal": 2,
+                "total_protein": 0,
+                "total_carbs": 0,
+                "total_fat": 0,
+                "total_price": 1
+            },
+            {
+                "type": "breakfast",
+                "name": "Grilled Potato with Avocado",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "GRILLED POTATO",
+                        "amount": "150g",
+                        "cal": 165,
+                        "protein": 4.2,
+                        "carbs": 43.5,
+                        "fat": 4.05,
+                        "price": 1.49
+                    },
+                    {
+                        "name": "Avocado",
+                        "amount": "50g",
+                        "cal": 87.03,
+                        "protein": 1,
+                        "carbs": 4.27,
+                        "fat": 7.33,
+                        "price": 3
+                    }
+                ],
+                "instructions": "Grill the potato and serve with sliced avocado.",
+                "total_cal": 252.03,
+                "total_protein": 5.2,
+                "total_carbs": 47.77,
+                "total_fat": 11.38,
+                "total_price": 4.49
+            },
+            {
+                "type": "lunch",
+                "name": "Salmon with Yellow Rice",
+                "time": "13:00",
+                "ingredients": [
+                    {
+                        "name": "SALMON",
+                        "amount": "150g",
+                        "cal": 309,
+                        "protein": 30.6,
+                        "carbs": 0,
+                        "fat": 19.5,
+                        "price": 10.725
+                    },
+                    {
+                        "name": "YELLOW RICE",
+                        "amount": "200g",
+                        "cal": 280.8,
+                        "protein": 5.832,
+                        "carbs": 60.48,
+                        "fat": 0.64,
+                        "price": 1.914
+                    }
+                ],
+                "instructions": "Cook the yellow rice and serve with grilled salmon.",
+                "total_cal": 589.8,
+                "total_protein": 36.432,
+                "total_carbs": 60.48,
+                "total_fat": 20.14,
+                "total_price": 12.639
+            },
+            {
+                "type": "snack",
+                "name": "Banana",
+                "time": "16:00",
+                "ingredients": [
+                    {
+                        "name": "Banana",
+                        "amount": "100g",
+                        "cal": 98.69,
+                        "protein": 1.09,
+                        "carbs": 22.84,
+                        "fat": 0.33,
+                        "price": 3
+                    }
+                ],
+                "instructions": "Serve fresh.",
+                "total_cal": 98.69,
+                "total_protein": 1.09,
+                "total_carbs": 22.84,
+                "total_fat": 0.33,
+                "total_price": 3
+            },
+            {
+                "type": "dinner",
+                "name": "Chicken Fillet with Tomato Sauce",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "CHICKEN FILLET",
+                        "amount": "200g",
+                        "cal": 330,
+                        "protein": 62,
+                        "carbs": 0,
+                        "fat": 7.2,
+                        "price": 3.344
+                    }
+                ],
+                "sauces": [
+                    {
+                        "name": "TOMATO SAUCE",
+                        "amount": "50g",
+                        "cal": 43.7,
+                        "protein": 1.8,
+                        "carbs": 10.1,
+                        "fat": 0.25,
+                        "price": 1.936
+                    }
+                ],
+                "instructions": "Grill the chicken fillet and serve with tomato sauce.",
+                "total_cal": 373.7,
+                "total_protein": 63.8,
+                "total_carbs": 10.1,
+                "total_fat": 7.45,
+                "total_price": 5.28
+            }
+        ],
+        [
+            {
+                "type": "morning drink",
+                "name": "Black Coffee",
+                "time": "06:30",
+                "ingredients": [
+                    {
+                        "name": "Black Coffee",
+                        "amount": "1 cup",
+                        "cal": 2,
+                        "protein": 0,
+                        "carbs": 0,
+                        "fat": 0,
+                        "price": 1
+                    }
+                ],
+                "instructions": "Serve hot without sugar.",
+                "total_cal": 2,
+                "total_protein": 0,
+                "total_carbs": 0,
+                "total_fat": 0,
+                "total_price": 1
+            },
+            {
+                "type": "breakfast",
+                "name": "Egg and Avocado",
+                "time": "07:00",
+                "ingredients": [
+                    {
+                        "name": "EGG",
+                        "amount": "100g",
+                        "cal": 148,
+                        "protein": 13,
+                        "carbs": 0.8,
+                        "fat": 10,
+                        "price": 1.3288
+                    },
+                    {
+                        "name": "Avocado",
+                        "amount": "50g",
+                        "cal": 87.03,
+                        "protein": 1,
+                        "carbs": 4.27,
+                        "fat": 7.33,
+                        "price": 3
+                    }
+                ],
+                "instructions": "Cook the egg to your preference and serve with sliced avocado.",
+                "total_cal": 235.03,
+                "total_protein": 14,
+                "total_carbs": 5.07,
+                "total_fat": 17.33,
+                "total_price": 4.3288
+            },
+            {
+                "type": "lunch",
+                "name": "Beef with Green Rice",
+                "time": "12:30",
+                "ingredients": [
+                    {
+                        "name": "BEEF",
+                        "amount": "150g",
+                        "cal": 345,
+                        "protein": 39,
+                        "carbs": 0,
+                        "fat": 22.5,
+                        "price": 6.10335
+                    },
+                    {
+                        "name": "GREEN RICE",
+                        "amount": "150g",
+                        "cal": 221.25,
+                        "protein": 4.59,
+                        "carbs": 47.655,
+                        "fat": 0.51,
+                        "price": 1.4355
+                    }
+                ],
+                "instructions": "Grill the beef and serve with cooked green rice.",
+                "total_cal": 566.25,
+                "total_protein": 43.59,
+                "total_carbs": 47.655,
+                "total_fat": 23.01,
+                "total_price": 7.53885
+            },
+            {
+                "type": "snack",
+                "name": "Strawberry Snack",
+                "time": "16:00",
+                "ingredients": [
+                    {
+                        "name": "Strawberry",
+                        "amount": "150g",
+                        "cal": 54.15,
+                        "protein": 1.005,
+                        "carbs": 11.52,
+                        "fat": 0.39,
+                        "price": 22.5
+                    }
+                ],
+                "instructions": "Enjoy fresh strawberries.",
+                "total_cal": 54.15,
+                "total_protein": 1.005,
+                "total_carbs": 11.52,
+                "total_fat": 0.39,
+                "total_price": 22.5
+            },
+            {
+                "type": "dinner",
+                "name": "Shrimp with Red Rice",
+                "time": "19:00",
+                "ingredients": [
+                    {
+                        "name": "SHRIMP",
+                        "amount": "200g",
+                        "cal": 170,
+                        "protein": 40.2,
+                        "carbs": 0.4,
+                        "fat": 1,
+                        "price": 6.49
+                    },
+                    {
+                        "name": "RED RICE",
+                        "amount": "150g",
+                        "cal": 216.915,
+                        "protein": 4.5045,
+                        "carbs": 46.71,
+                        "fat": 0.495,
+                        "price": 1.4355
+                    }
+                ],
+                "instructions": "Cook the shrimp and serve with red rice.",
+                "total_cal": 386.915,
+                "total_protein": 44.7045,
+                "total_carbs": 47.11,
+                "total_fat": 1.495,
+                "total_price": 7.9255
+            }
+        ]
+    ],
+    "daily_total": [
+        {
+            "calories": 1316.22,
+            "protein": 106.522,
+            "carbs": 141.19,
+            "fat": 39.3,
+            "price": 26.409
+        },
+        {
+            "calories": 1244.345,
+            "protein": 103.2995,
+            "carbs": 111.355,
+            "fat": 42.225,
+            "price": 43.29365
+        }
+    ],
+    "current_day": 2,
+    "total_days": 30,
+    "total_price": 69.70265,
+    "total_calories": 2560.565,
+    "total_meals": 10
+}
